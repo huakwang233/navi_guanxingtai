@@ -1,0 +1,2 @@
+# navi_guanxingtai
+存放Navi观星台汉化组的翻译和校对内容
