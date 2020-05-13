@@ -10,556 +10,563 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: /Users/silencewilliam/Downloads/二夜連続！アルゴナビス生放送スペシャル！　第一夜「アルゴナビス from BanG Dream! ANIMATION」.mp4
-Video File: /Users/silencewilliam/Downloads/二夜連続！アルゴナビス生放送スペシャル！　第一夜「アルゴナビス from BanG Dream! ANIMATION」.mp4
+Last Style Storage: navis
+Audio File: 二夜連続！アルゴナビス生放送スペシャル！　第一夜「アルゴナビス from BanG Dream! ANIMATION」.mp4
+Video File: 二夜連続！アルゴナビス生放送スペシャル！　第一夜「アルゴナビス from BanG Dream! ANIMATION」.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 515
-Active Line: 533
-Video Position: 79078
+Video Zoom Percent: 0.250000
+Scroll Position: 181
+Active Line: 183
+Video Position: 47017
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: org,Heiti SC,45,&H000564FF,&H000073FF,&H00FFFFFF,&HB2000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,15,1
-Style: Default,Heiti SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H95000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: prpl,Heiti SC,20,&H00FF00BC,&H00AF055A,&H00FFFFFF,&HA2000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: dpgrn,Heiti SC,20,&H00807500,&H00497001,&H00FFFFFF,&HB0000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: all,幼圆,35,&H00FFFFFF,&H000000FF,&H00592707,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,10,10,30,1
+Style: npc,幼圆,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.1,2,8,10,10,10,1
+Style: 七星莲 & 伊藤昌弘,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00D9BE4D,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 五棱结人 & 日向大辅,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H005F8AFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 的场航海 & 前田诚二,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00D77871,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 桔梗凛生 & 森岛秀太,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H007AB43C,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 白石万浬 & 桥本祥平,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H0000BEFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 旭那由多 & 小笠原仁,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00351AB8,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 美园礼音 & 真野拓实,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H007C766D,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 众,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 界川深幸 & 宫内告典,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H007753E9,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:11:59.26,0:12:00.96,Default,masa,0,0,0,,小时候
-Dialogue: 0,0:12:00.96,0:12:05.62,Default,masa,0,0,0,,父亲临时起意带我参加音乐节
-Dialogue: 0,0:12:06.52,0:12:09.76,Default,masa,0,0,0,,其实我并不感兴趣
-Dialogue: 0,0:12:10.80,0:12:12.66,Default,masa,0,0,0,,我觉得一定很无聊
-Dialogue: 0,0:12:13.74,0:12:14.66,Default,masa,0,0,0,,但其实一点都不无聊
-Dialogue: 0,0:12:15.98,0:12:18.12,Default,masa,0,0,0,,那里混杂着蓄势待发的能量
-Dialogue: 0,0:12:19.20,0:12:23.36,Default,masa,0,0,0,,当时有种东西抓住了我的心
-Dialogue: 0,0:12:27.98,0:12:32.08,Default,masa,0,0,0,,它的真面目
-Dialogue: 0,0:12:32.08,0:12:34.82,Default,masa,0,0,0,,我依旧在追寻
-Dialogue: 0,0:13:16.64,0:13:21.94,Default,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜——
-Dialogue: 0,0:13:21.94,0:13:28.64,Default,大家,0,0,0,,ARGONAVIS From BanG Dream animation
-Dialogue: 0,0:13:41.96,0:13:50.80,Default,mae,0,0,0,,终于开始了连续两夜放送的ARGONAVIS Special的第一夜
-Dialogue: 0,0:13:50.80,0:13:55.74,Default,mae,0,0,0,,因为今天有许多很棒的嘉宾，所以马上介绍一下吧,请！
-Dialogue: 0,0:13:56.52,0:14:00.60,Default,masa,0,0,0,,我曾经像行尸走肉 但后来拥有了音乐
-Dialogue: 0,0:14:00.60,0:14:02.90,Default,masa,0,0,0,,现在的我和大家在一起才是活着。
-Dialogue: 0,0:14:02.90,0:14:04.74,Default,masa,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
-Dialogue: 0,0:14:04.74,0:14:08.72,Default,masa,0,0,0,,Argonavis主唱七星莲的伊藤昌弘，请多指教
-Dialogue: 0,0:14:13.34,0:14:17.00,Default,hyu,0,0,0,,不要担心那些细节 我会想办法解决的
-Dialogue: 0,0:14:17.00,0:14:21.76,Default,hyu,0,0,0,,同样饰演ARGONAVIS from BanG Dream 嗯…那个…
-Dialogue: 0,0:14:22.82,0:14:29.08,Default,hyu,0,0,0,,饰演Argonaivs吉他手五稜结人的日向大辅，这次请多指教
-Dialogue: 0,0:14:31.36,0:14:35.08,Default,mae,0,0,0,,虽说把梦想挂在嘴边也没什么 但那个责任你承担得起吗？
-Dialogue: 0,0:14:35.08,0:14:39.76,Default,mae,0,0,0,,说起梦想，可是要背负起同伴人生的！
-Dialogue: 0,0:14:39.76,0:14:42.92,Default,mae,0,0,0,,同样饰演ARGONAVIS from BanG Dream!中
-Dialogue: 0,0:14:42.92,0:14:48.66,Default,mae,0,0,0,,Argonaivs贝斯手的场航海的前田诚二，请多指教
-Dialogue: 0,0:14:51.78,0:14:57.32,Default,mrs,0,0,0,,毫无疑问，我对你们来说是不可缺少的部分。
-Dialogue: 0,0:14:54.92,0:14:56.20,Default,hyu,0,0,0,,那是什么
-Dialogue: 0,0:14:57.32,0:15:00.76,Default,mrs,0,0,0,,同样饰演ARGONAVIS from BanG Dream!中
-Dialogue: 0,0:15:00.76,0:15:06.74,Default,mrs,0,0,0,,Argonavis的键盘手 饰演桔梗凛生的森岛秀太，请多指教
-Dialogue: 0,0:15:06.30,0:15:07.38,Default,mae,0,0,0,,那个不错啊
-Dialogue: 0,0:15:07.18,0:15:08.46,Default,masa,0,0,0,,还能这样吗？
-Dialogue: 0,0:15:08.08,0:15:09.66,Default,mrs,0,0,0,,啊稍微学了一下（这个技能）【不确定 麻烦校对修正
-Dialogue: 0,0:15:09.66,0:15:10.72,Default,hey,0,0,0,,好——
-Dialogue: 0,0:15:11.84,0:15:12.86,Default,mrs,0,0,0,,啊，那个是
-Dialogue: 0,0:15:12.86,0:15:15.80,Default,hey,0,0,0,,我为了赚钱可以拼上性命哦
-Dialogue: 0,0:15:15.80,0:15:19.18,Default,hey,0,0,0,,但是大家一起赚钱效率更高
-Dialogue: 0,0:15:19.18,0:15:20.12,Default,hey,0,0,0,,不是吗？
-Dialogue: 0,0:15:20.12,0:15:21.66,Default,hey,0,0,0,,我是饰演ARGONAVIS From BanG Dream!中
-Dialogue: 0,0:15:21.66,0:15:26.66,Default,hey,0,0,0,,Argonavis鼓手白石万浬的桥本祥平，请多指教
-Dialogue: 0,0:15:27.60,0:15:30.10,Default,hey,0,0,0,,啊牙白！拿错了
-Dialogue: 0,0:15:30.10,0:15:31.96,Default,mae,0,0,0,,还特意挡了一下
-Dialogue: 0,0:15:31.96,0:15:33.46,Default,jin,0,0,0,,除了额头以外都没挡到
-Dialogue: 0,0:15:33.46,0:15:34.66,Default,hey,0,0,0,,好害羞
-Dialogue: 0,0:15:37.82,0:15:42.24,Default,jin,0,0,0,,你身边有很多人可以取代你，这点不要忘记
-Dialogue: 0,0:15:42.24,0:15:44.86,Default,jin,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
-Dialogue: 0,0:15:44.86,0:15:52.36,Default,jin,0,0,0,,GYROAXIA主唱旭那由多的小笠原仁，请多指教
-Dialogue: 0,0:15:56.90,0:15:59.72,Default,mano,0,0,0,,我不喜欢那由多
-Dialogue: 0,0:15:59.72,0:16:04.00,Default,mano,0,0,0,,但我是GYROAXIA的一员
-Dialogue: 0,0:16:04.00,0:16:06.62,Default,mano,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
-Dialogue: 0,0:16:06.62,0:16:12.64,Default,mano,0,0,0,,GYROAXIA吉他手美园礼音的真野拓实，请多指教
-Dialogue: 0,0:16:12.64,0:16:14.64,Default,?,0,0,0,,干嘛啊
-Dialogue: 0,0:16:18.92,0:16:21.16,Default,mae,0,0,0,,内讧得很热闹呢 GYROAXIA
-Dialogue: 0,0:16:21.16,0:16:23.56,Default,mae,0,0,0,,好的那么总而言之就开始啦
-Dialogue: 0,0:16:23.56,0:16:31.34,Default,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜「ARGONAVIS from Band Dream！ANIMATION」
-Dialogue: 0,0:16:33.14,0:16:36.02,Default,mae,0,0,0,,一开始就情绪高涨啊
-Dialogue: 0,0:16:36.02,0:16:39.78,Default,mae,0,0,0,,今天由这样7位成员的阵容和大家见面
-Dialogue: 0,0:16:39.78,0:16:43.38,Default,mae,0,0,0,,到最后也请多多关照喔
-Dialogue: 0,0:16:41.52,0:16:43.38,Default,大家,0,0,0,,请多多关照
-Dialogue: 0,0:16:43.38,0:16:45.02,Default,mae,0,0,0,,好 这个节目 怎么说呢
-Dialogue: 0,0:16:45.02,0:16:52.02,Default,mae,0,0,0,,虽然预计是一个小时左右的样子 但想来一个小时是结束不了的
-Dialogue: 0,0:16:52.02,0:16:58.00,Default,mae,0,0,0,,所以 说不定会稍微有点长 希望大家可以愉快地坚持到最后 拜托啦
-Dialogue: 0,0:16:59.24,0:17:01.94,Default,mae,0,0,0,,刚刚开始的时候感觉是「哇唔——-」现在气氛差不多是死掉了
-Dialogue: 0,0:17:01.94,0:17:04.68,Default,hyu,0,0,0,,才没有那回事的 完全没有
-Dialogue: 0,0:17:04.68,0:17:07.68,Default,mrs,0,0,0,,因为呢 最开始的时候「哇唔——」变虚弱了就会暂时死一会
-Dialogue: 0,0:17:07.68,0:17:11.08,Default,?,0,0,0,,好危险 说了诶 说了呢
-Dialogue: 0,0:17:11.08,0:17:13.64,Default,mae,0,0,0,,在后台的时候大家也都很有精神啊
-Dialogue: 0,0:17:13.64,0:17:16.94,Default,mrs,0,0,0,,但是仅限刚开始的时候
-Dialogue: 0,0:17:18.10,0:17:20.10,Default,masa,0,0,0,,眼神最后活着呢
-Dialogue: 0,0:17:20.10,0:17:23.52,Default,mae,0,0,0,,那个啊 据化妆师跟我说
-Dialogue: 0,0:17:23.52,0:17:26.38,Default,mae,0,0,0,,小笠原仁先生今天非常闹腾
-Dialogue: 0,0:17:26.38,0:17:27.70,Default,jin,0,0,0,,诶 不是真的吧
-Dialogue: 0,0:17:27.70,0:17:29.98,Default,mae,0,0,0,,在隔壁的化妆室都能听到声音
-Dialogue: 0,0:17:31.80,0:17:33.50,Default,mae,0,0,0,,看起来非常期待
-Dialogue: 0,0:17:33.50,0:17:34.94,Default,jin,0,0,0,,抱 抱歉
-Dialogue: 0,0:17:33.90,0:17:35.36,Default,mano,0,0,0,,在隔壁所以可以讲话
-Dialogue: 0,0:17:34.94,0:17:38.04,Default,jin,0,0,0,,那个啊 因为隔着墙在和真野拓实聊天
-Dialogue: 0,0:17:39.20,0:17:40.24,Default,hyu,0,0,0,,诶好厉害
-Dialogue: 0,0:17:40.24,0:17:41.28,Default,mae,0,0,0,,那群家伙怎么回事耶
-Dialogue: 0,0:17:41.28,0:17:44.08,Default,mrs,0,0,0,,嘛稍微呢 因为上面有薄薄的缝隙 是可行的呢
-Dialogue: 0,0:17:44.08,0:17:46.78,Default,mae,0,0,0,,好 今天呢那个已经⋯啊感谢
-Dialogue: 0,0:17:46.78,0:17:51.94,Default,mae,0,0,0,,已经有人发了呢 在推特上加上#アルゴナ第一夜的tag发推
-Dialogue: 0,0:17:51.94,0:17:56.44,Default,mae,0,0,0,,加上后我们就可以看到啦 谢谢大家
-Dialogue: 0,0:17:56.44,0:18:03.52,Default,mae,0,0,0,,嗯嗯 因为节目中可以实际接收到 拜托大家一条条附上喔
-Dialogue: 0,0:18:03.52,0:18:05.82,Default,mae,0,0,0,,那么在这次的直播中
-Dialogue: 0,0:18:05.82,0:18:10.22,Default,mae,0,0,0,,动画和乐队角色的相关情报当然是有的
-Dialogue: 0,0:18:10.22,0:18:12.46,Default,mae,0,0,0,,还有很多企划和商品的贩售信息周边情报
-Dialogue: 0,0:18:12.46,0:18:18.74,Default,mae,0,0,0,,此外还有这个节目里初次公开的内容 到最后也务必尽兴喔
-Dialogue: 0,0:18:18.74,0:18:21.06,Default,mae,0,0,0,,为了防止听漏或看漏错过
-Dialogue: 0,0:18:21.06,0:18:23.44,Default,mae,0,0,0,,千万不要眨眼喔拜托各位了
-Dialogue: 0,0:18:23.44,0:18:24.90,Default,?,0,0,0,,要干眼症了喂
-Dialogue: 0,0:18:26.28,0:18:28.50,Default,mae,0,0,0,,那可以适当地眨眨眼这样
-Dialogue: 0,0:18:27.74,0:18:30.22,Default,mrs,0,0,0,,然后呢然后 推特上的⋯啊啊这个
-Dialogue: 0,0:18:30.22,0:18:32.82,Default,mae,0,0,0,,推特tag活动 之前说过的
-Dialogue: 0,0:18:32.82,0:18:35.06,Default,mae,0,0,0,,观看节目时用#アルゴナ第一夜的tag发推
-Dialogue: 0,0:18:35.06,0:18:40.20,Default,mae,0,0,0,,这个！
-Dialogue: 0,0:18:40.20,0:18:41.06,Default,mae,0,0,0,,这里这个动画海报
-Dialogue: 0,0:18:46.50,0:18:49.30,Default,mae,0,0,0,,附有今天所有出演者的签名
-Dialogue: 0,0:18:49.30,0:18:52.32,Default,mae,0,0,0,,将会抽选三位作为礼物送出喔
-Dialogue: 0,0:18:52.32,0:18:56.12,Default,mae,0,0,0,,好帅
-Dialogue: 0,0:18:57.82,0:18:58.68,Default,hey,0,0,0,,超棒的
-Dialogue: 0,0:18:58.68,0:19:00.44,Default,jin,0,0,0,,把这个莲作为礼物
-Dialogue: 0,0:19:00.44,0:19:01.52,Default,hey,0,0,0,,是喔
-Dialogue: 0,0:19:01.52,0:19:01.98,Default,mrs,0,0,0,,我也一起？
-Dialogue: 0,0:19:01.98,0:19:03.24,Default,jin,0,0,0,,啊 仁君 是的呢
-Dialogue: 0,0:19:03.24,0:19:04.80,Default,mano,0,0,0,,那个啊 你 【需要校对帮助】
-Dialogue: 0,0:19:04.80,0:19:07.66,Default,jin,0,0,0,,啊好危险 好危险
-Dialogue: 0,0:19:08.64,0:19:10.64,Default,jin,0,0,0,,好的喔 这里会向三位送出礼物
-Dialogue: 0,0:19:10.64,0:19:14.04,Default,mae,0,0,0,,请各位务必积极参加哦 拜托啦
-Dialogue: 0,0:19:14.04,0:19:18.00,Default,mae,0,0,0,,好了好了 所以说还有很多内容 马上来进行吧
-Dialogue: 0,0:19:21.00,0:19:26.56,Default,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜「ARGONAVIS from BanG Dream！ANIMATION」
-Dialogue: 0,0:19:26.56,0:19:32.32,Default,mae,0,0,0,,开始！！
-Dialogue: 0,0:19:32.32,0:19:36.68,Default,大家,0,0,0,,好 首先是要简单介绍一下关于企划「ARGONAVIS from Band Dream！」
-Dialogue: 0,0:19:39.64,0:19:46.64,Default,mae,0,0,0,,那么——masa君 麻烦你咯
-Dialogue: 0,0:19:46.64,0:19:49.04,Default,mae,0,0,0,,交给我吧
-Dialogue: 0,0:19:49.04,0:19:51.06,Default,masa,0,0,0,,我开始啦
-Dialogue: 0,0:19:51.06,0:19:52.32,Default,masa,0,0,0,,画面
-Dialogue: 0,0:21:11.62,0:21:13.18,Default,masa,0,0,0,,这样的故事
-Dialogue: 0,0:21:13.18,0:21:16.12,Default,mae,0,0,0,,好的 非常感谢
-Dialogue: 0,0:21:16.12,0:21:20.10,Default,mae,0,0,0,,确实啊过不了多久了 开播的日子越来越近啦
-Dialogue: 0,0:21:20.10,0:21:22.62,Default,mae,0,0,0,,大家后期录音怎么样了
-Dialogue: 0,0:21:22.62,0:21:24.62,Default,jin,0,0,0,,诶诶 录音的事情（观众）已经知道了吗？
-Dialogue: 0,0:21:25.52,0:21:27.62,Default,mae,0,0,0,,太吵了太吵了
-Dialogue: 0,0:21:27.62,0:21:29.68,Default,jin,0,0,0,,已经知道录音的事情了吗？
-Dialogue: 0,0:21:29.68,0:21:33.60,Default,mano,0,0,0,,不知道吗？诶——
-Dialogue: 0,0:21:33.60,0:21:35.56,Default,mae,0,0,0,,那么仁君 情况如何呢？
-Dialogue: 0,0:21:35.56,0:21:42.68,Default,jin,0,0,0,,哎呀这个 GYROAXIA聚在一起讨论交流过
-Dialogue: 0,0:21:42.68,0:21:44.52,Default,jin,0,0,0,,因为我们说不定也会出场
-Dialogue: 0,0:21:46.16,0:21:50.30,Default,mano,0,0,0,,我们是【求助校对】有什么隐藏的必要吗 很奇怪吧 想什么呢
-Dialogue: 0,0:21:50.30,0:21:53.44,Default,jin,0,0,0,,嘛是会出场的 那个
-Dialogue: 0,0:21:53.44,0:21:57.44,Default,jin,0,0,0,,像是乐队练习的情报交换会
-Dialogue: 0,0:21:57.44,0:22:02.88,Default,jin,0,0,0,,确实是各方面都很快乐的现场呢
-Dialogue: 0,0:22:02.88,0:22:09.16,Default,mae,0,0,0,,还有Argonavis本编的动画 Argonavis的成员相遇的故事
-Dialogue: 0,0:22:09.16,0:22:15.88,Default,mae,0,0,0,,是怎样的相遇方式让大家组成了一个乐队 这些还请务必期待
-Dialogue: 0,0:22:15.02,0:22:16.24,Default,hyu,0,0,0,,让人很在意呢
-Dialogue: 0,0:22:15.88,0:22:22.30,Default,mae,0,0,0,,好的 就是这样动画「ARGONAVIS from Band Dream！」归纳了三个突出的看点【求助校对】
-Dialogue: 0,0:22:22.30,0:22:25.88,Default,mae,0,0,0,,现在来介绍一下 那么开始咯 请看这里——
-Dialogue: 0,0:22:29.82,0:22:35.46,Default,mae,0,0,0,,这个喔 刚刚说过的 和成员以及和GYROAXIA的相遇
-Dialogue: 0,0:22:35.46,0:22:37.20,Default,mae,0,0,0,,好的 然后呢然后——
-Dialogue: 0,0:22:44.84,0:22:51.20,Default,mae,0,0,0,,在听着乐曲的同时跟进情节的发展
-Dialogue: 0,0:22:51.20,0:22:53.20,Default,mae,0,0,0,,最后是这个——
-Dialogue: 0,0:22:59.44,0:23:00.66,Default,hyu,0,0,0,,做了动作捕捉呢
-Dialogue: 0,0:23:02.08,0:23:04.44,Default,?,0,0,0,,大家都变得扭扭捏捏的
-Dialogue: 0,0:23:04.44,0:23:06.44,Default,?,0,0,0,,不要扭扭捏捏的说啊
-Dialogue: 0,0:23:07.70,0:23:10.98,Default,mae,0,0,0,,好哒 这里呢 在现场和监督还有工作人员
-Dialogue: 0,0:23:10.98,0:23:18.28,Default,mae,0,0,0,,一边听一边做了很多讨论 这里也是请大家一定期待喔
-Dialogue: 0,0:23:18.28,0:23:24.38,Default,mae,0,0,0,,总之就是这样 另外呢 这次会公开动画的预告片
-Dialogue: 0,0:23:24.38,0:23:29.32,Default,mae,0,0,0,,想请大家务必观看一下 那么请看
-Dialogue: 0,0:23:32.38,0:23:36.56,Default,masa,0,0,0,,那里混杂着蓄势待发的能量
-Dialogue: 0,0:23:38.58,0:23:41.86,Default,masa,0,0,0,,当时有种东西抓住了我的心
-Dialogue: 0,0:23:41.86,0:23:43.50,Default,masa,0,0,0,,它的真面目
-Dialogue: 0,0:23:44.90,0:23:46.50,Default,masa,0,0,0,,我依旧在追寻
-Dialogue: 0,0:23:57.30,0:23:59.84,Default,mae,0,0,0,,运气就这么好吗
-Dialogue: 0,0:23:59.84,0:24:03.34,Default,hyu,0,0,0,,正因为遇见了你 所以运气才最好啊
-Dialogue: 0,0:24:03.34,0:24:05.56,Default,hyu,0,0,0,,因为有了命运的邂逅
-Dialogue: 0,0:24:07.90,0:24:11.78,Default,mrs,0,0,0,,我身上到底还有没有[希望]啊
-Dialogue: 0,0:24:12.80,0:24:16.50,Default,hey,0,0,0,,如果你能答应让我发财 我就加入你们
-Dialogue: 0,0:24:16.50,0:24:20.30,Default,masa,0,0,0,,那种感觉 我还想再品味一次
-Dialogue: 0,0:24:21.16,0:24:24.12,Default,masa,0,0,0,,南船座（ARGONAVIS）的第一班船
-Dialogue: 0,0:24:24.12,0:24:26.48,Default,masa,0,0,0,,就从这里开始
-Dialogue: 0,0:24:50.86,0:24:53.80,Default,masa,0,0,0,,动画[ARGONAVIS from BanG Dream! 梦想协奏曲]
-Dialogue: 0,0:24:57.06,0:24:58.76,Default,masa,0,0,0,,放送开始
-Dialogue: 0,0:25:02.30,0:25:03.86,Default,hey,0,0,0,,好帅！
-Dialogue: 0,0:25:03.86,0:25:05.86,Default,mae,0,0,0,,好厉害
-Dialogue: 0,0:25:05.86,0:25:09.82,Default,hey,0,0,0,,真的好好啊 昨天播出的时候我在电视上看了
-Dialogue: 0,0:25:09.82,0:25:12.24,Default,大家,0,0,0,,哦哦
-Dialogue: 0,0:25:10.84,0:25:12.04,Default,hey,0,0,0,,真的看了哦！
-Dialogue: 0,0:25:12.04,0:25:12.66,Default,?,0,0,0,,看了直播？
-Dialogue: 0,0:25:12.66,0:25:13.10,Default,hey,0,0,0,,对我按时看的
-Dialogue: 0,0:25:13.10,0:25:14.40,Default,?,0,0,0,,真好啊
-Dialogue: 0,0:25:14.40,0:25:15.62,Default,hey,0,0,0,,为此熬夜了
-Dialogue: 0,0:25:16.48,0:25:19.08,Default,?,0,0,0,,熬夜是坏孩子
-Dialogue: 0,0:25:19.08,0:25:22.34,Default,mae,0,0,0,,看完觉得怎么样 masa你觉得怎么样
-Dialogue: 0,0:25:22.34,0:25:23.96,Default,mae,0,0,0,,感觉莲一直在跑步
-Dialogue: 0,0:25:23.96,0:25:27.72,Default,masa,0,0,0,,啊 这个嘛 毕竟是动画的预告片
-Dialogue: 0,0:25:27.72,0:25:31.44,Default,masa,0,0,0,,怎么说呢 等开始播出了
-Dialogue: 0,0:25:31.44,0:25:34.58,Default,masa,0,0,0,,这“为什么在跑呢”的问题
-Dialogue: 0,0:25:34.58,0:25:36.88,Default,masa,0,0,0,,到时候就会解释清了
-Dialogue: 0,0:25:36.88,0:25:38.98,Default,masa,0,0,0,,真的是有好多这样的场景啊
-Dialogue: 0,0:25:38.98,0:25:41.02,Default,masa,0,0,0,,我们现在看到的这个背景画面
-Dialogue: 0,0:25:41.02,0:25:42.40,Default,masa,0,0,0,,是(函馆市的)八幡坂
-Dialogue: 0,0:25:42.40,0:25:47.52,Default,masa,0,0,0,,类似这样的函馆市街景 在动画里都画得很好看哦！
-Dialogue: 0,0:25:48.50,0:25:50.02,Default,masa,0,0,0,,这可是很厉害的！
-Dialogue: 0,0:25:50.02,0:25:51.32,Default,大家,0,0,0,,好厉害
-Dialogue: 0,0:25:51.32,0:25:52.90,Default,hyu,0,0,0,,画面真的很好看
-Dialogue: 0,0:25:53.66,0:25:54.80,Default,hyu,0,0,0,,看得都感动了
-Dialogue: 0,0:25:54.80,0:25:56.92,Default,masa,0,0,0,,真的好厉害 风景特别漂亮
-Dialogue: 0,0:25:56.92,0:25:59.12,Default,?,0,0,0,,推特上有人说“是神曲”
-Dialogue: 0,0:25:59.12,0:26:02.30,Default,大家,0,0,0,,谢谢 谢谢
-Dialogue: 0,0:26:02.30,0:26:04.84,Default,mae,0,0,0,,这位说“预告片看了好几遍 很喜欢”
-Dialogue: 0,0:26:04.84,0:26:05.64,Default,mae,0,0,0,,谢谢
-Dialogue: 0,0:26:05.64,0:26:06.92,Default,大家,0,0,0,,“想去函馆~~~！！！”
-Dialogue: 0,0:26:06.92,0:26:08.92,Default,hyu,0,0,0,,去吧 我们一起去吧！
-Dialogue: 0,0:26:08.92,0:26:11.46,Default,jin,0,0,0,,但是确实要去的吧？
-Dialogue: 0,0:26:11.46,0:26:13.64,Default,大家,0,0,0,,是啊 总有一天要去
-Dialogue: 0,0:26:13.64,0:26:15.74,Default,mae,0,0,0,,是想着一定要去
-Dialogue: 0,0:26:15.74,0:26:19.40,Default,？,0,0,0,,hey我们也想去札幌
-Dialogue: 0,0:26:16.84,0:26:18.36,Default,hyu,0,0,0,,别忘了带纪念品回来
-Dialogue: 0,0:26:19.40,0:26:20.92,Default,mrs,0,0,0,,jin会买纪念品回来的
-Dialogue: 0,0:26:22.00,0:26:22.88,Default,？,0,0,0,,札幌纪念品？
-Dialogue: 0,0:26:22.88,0:26:23.94,Default,mae,0,0,0,,带点雪回来就行了
-Dialogue: 0,0:26:24.44,0:26:25.94,Default,mano,0,0,0,,雪？
-Dialogue: 0,0:26:25.94,0:26:28.34,Default,jin,0,0,0,,把雪一路带到这里来还是有点难度吧
-Dialogue: 0,0:26:28.34,0:26:31.26,Default,mrs,0,0,0,,放在保温箱里带过来
-Dialogue: 0,0:26:31.26,0:26:33.26,Default,jin,0,0,0,,怎么讨论得这么当真
-Dialogue: 0,0:26:33.26,0:26:35.96,Default,hey,0,0,0,,那就钥匙链
-Dialogue: 0,0:26:35.96,0:26:39.26,Default,jin,0,0,0,,这下确实是纪念品了 但是不需要的好吗？？
-Dialogue: 0,0:26:39.26,0:26:41.26,Default,jin,0,0,0,,钥匙链 真的不想收
-Dialogue: 0,0:26:41.26,0:26:43.48,Default,jin,0,0,0,,心意是领了
-Dialogue: 0,0:26:43.48,0:26:48.40,Default,mae,0,0,0,,好了好了 动画马上要播出了大家一定都很期待
-Dialogue: 0,0:26:48.40,0:26:54.82,Default,mae,0,0,0,,下面来介绍一下我们饰演的各个角色所属的乐队
-Dialogue: 0,0:26:54.82,0:27:00.12,Default,mae,0,0,0,,但是呢 为了加深对角色的理解
-Dialogue: 0,0:27:00.12,0:27:02.30,Default,mae,0,0,0,,我们准备让别人来介绍不是自己的角色！
-Dialogue: 0,0:27:02.30,0:27:04.84,Default,大家,0,0,0,,哦？介绍别人的角色？
-Dialogue: 0,0:27:04.84,0:27:05.68,Default,masa,0,0,0,,octopus？(章鱼？)
-Dialogue: 0,0:27:05.68,0:27:07.22,Default,mae,0,0,0,,不是那个tako (同音梗)
-Dialogue: 0,0:27:07.22,0:27:08.72,Default,?,0,0,0,,那鱿鱼介绍
-Dialogue: 0,0:27:08.72,0:27:11.02,Default,mae,0,0,0,,还搞鱿鱼介绍？
-Dialogue: 0,0:27:11.02,0:27:13.40,Default,mrs,0,0,0,,是“以下”(同鱿鱼ika)介绍 把以下内容全部介绍一遍
-Dialogue: 0,0:27:13.40,0:27:16.04,Default,mae,0,0,0,,这么解释也行吧
-Dialogue: 0,0:27:16.04,0:27:20.84,Default,mae,0,0,0,,那么先请大家先简短地介绍一下自己的角色
-Dialogue: 0,0:27:20.84,0:27:28.22,Default,mae,0,0,0,,然后再由另一个人来展示一下角色的魅力
-Dialogue: 0,0:27:28.22,0:27:33.50,Default,mae,0,0,0,,举例来说 莲的话 先由masa来稍微介绍一下
-Dialogue: 0,0:27:33.50,0:27:35.14,Default,mae,0,0,0,,然后大家来抽签
-Dialogue: 0,0:27:35.14,0:27:37.46,Default,mae,0,0,0,,假设是hyuusuke抽到了
-Dialogue: 0,0:27:37.46,0:27:40.30,Default,mae,0,0,0,,那hyuusuke就要来介绍莲
-Dialogue: 0,0:27:40.30,0:27:41.28,Default,masa,0,0,0,,原来如此
-Dialogue: 0,0:27:41.28,0:27:43.02,Default,mae,0,0,0,,就是这样
-Dialogue: 0,0:27:43.02,0:27:47.60,Default,hyu,0,0,0,,(模仿心跳声)
-Dialogue: 0,0:27:45.12,0:27:46.80,Default,mae,0,0,0,,你心脏还好吧
-Dialogue: 0,0:27:50.84,0:27:53.72,Default,?,0,0,0,,可怕 恐怖片啊 MJ的那首Thriller一样
-Dialogue: 0,0:27:56.12,0:27:57.32,Default,mae,0,0,0,,好了继续
-Dialogue: 0,0:27:57.32,0:28:00.94,Default,mae,0,0,0,,既然大家要介绍的都是身边熟悉的角色
-Dialogue: 0,0:28:00.94,0:28:02.94,Default,mae,0,0,0,,肯定就...对吧？
-Dialogue: 0,0:28:02.94,0:28:04.86,Default,大家,0,0,0,,嗯嗯 对啊 对啊
-Dialogue: 0,0:28:04.86,0:28:07.54,Default,mae,0,0,0,,你们“对啊”太多遍了
-Dialogue: 0,0:28:07.54,0:28:09.98,Default,mae,0,0,0,,那我们就赶快开始吧
-Dialogue: 0,0:28:09.98,0:28:13.20,Default,mae,0,0,0,,来请抽签吧
-Dialogue: 0,0:28:14.20,0:28:15.78,Default,masa,0,0,0,,从我这边开始抽
-Dialogue: 0,0:28:15.78,0:28:16.84,Default,?,0,0,0,,好紧张啊
-Dialogue: 0,0:28:16.34,0:28:18.88,Default,mae,0,0,0,,我们先一个接一个都抽完吧
-Dialogue: 0,0:28:18.88,0:28:20.76,Default,masa,0,0,0,,deng deng deng deng
-Dialogue: 0,0:28:23.72,0:28:25.36,Default,大家,0,0,0,,deng deng deng deng
-Dialogue: 0,0:28:25.36,0:28:26.92,Default,mrs,0,0,0,,效果音？
-Dialogue: 0,0:28:28.62,0:28:30.10,Default,mrs,0,0,0,,我不想唱啊
-Dialogue: 0,0:28:30.10,0:28:33.38,Default,mae,0,0,0,,每个人会抽到不一样的角色
-Dialogue: 0,0:28:35.34,0:28:38.58,Default,mrs,0,0,0,,超级不想 超级不愿意啊
-Dialogue: 0,0:28:46.78,0:28:48.42,Default,masa,0,0,0,,现在就可以看吗？
-Dialogue: 0,0:28:50.62,0:28:53.94,Default,mae,0,0,0,,别让别人看见就行
-Dialogue: 0,0:28:53.94,0:28:59.20,Default,mae,0,0,0,,啊 原来如此
-Dialogue: 0,0:28:55.08,0:28:57.42,Default,mrs,0,0,0,,那就请大家之后介绍抽到的角色了
-Dialogue: 0,0:28:58.30,0:29:00.10,Default,大家,0,0,0,,好~
-Dialogue: 0,0:28:59.20,0:29:05.38,Default,mae,0,0,0,,首先来介绍一下函馆的大学生乐队Argonavis
-Dialogue: 0,0:29:05.38,0:29:07.98,Default,mae,0,0,0,,以天生的主唱 莲 为中心
-Dialogue: 0,0:29:07.98,0:29:10.14,Default,mae,0,0,0,,热血行动派的领队结人
-Dialogue: 0,0:29:10.14,0:29:12.70,Default,mae,0,0,0,,慎重仔细的航海
-Dialogue: 0,0:29:12.70,0:29:15.04,Default,mae,0,0,0,,又酷又万能的凛生
-Dialogue: 0,0:29:15.04,0:29:16.76,Default,mae,0,0,0,,性格开朗做事靠谱的万浬
-Dialogue: 0,0:29:16.76,0:29:19.82,Default,mae,0,0,0,,五个人像家人一样互相支持的乐队
-Dialogue: 0,0:29:19.82,0:29:22.04,Default,mae,0,0,0,,然后角色的话...
-Dialogue: 0,0:29:22.04,0:29:26.14,Default,masa,0,0,0,,好的！首先来介绍一下我饰演的七星莲
-Dialogue: 0,0:29:25.80,0:29:26.44,Default,mae,0,0,0,,好！
-Dialogue: 0,0:29:26.14,0:29:27.92,Default,masa,0,0,0,,他是法学系的大一学生
-Dialogue: 0,0:29:27.92,0:29:31.32,Default,masa,0,0,0,,因难以忘记小时候看露天live演出时的兴奋心情
-Dialogue: 0,0:29:31.32,0:29:35.16,Default,masa,0,0,0,,梦想着有一天能登上大舞台 而开始了唱歌
-Dialogue: 0,0:29:35.16,0:29:40.14,Default,masa,0,0,0,,升上大学后 因实力而被正在找主唱的结人发现
-Dialogue: 0,0:29:40.14,0:29:41.70,Default,masa,0,0,0,,就此加入了Argonavis
-Dialogue: 0,0:29:41.70,0:29:46.94,Default,masa,0,0,0,,平常很安静老实 但为了音乐可以无限热血 的角色
-Dialogue: 0,0:29:46.94,0:29:50.20,Default,mae,0,0,0,,原来如此
-Dialogue: 0,0:29:50.20,0:29:54.46,Default,mae,0,0,0,,抽到了莲的人...是谁？
-Dialogue: 0,0:29:54.46,0:29:55.00,Default,mano,0,0,0,,我！
-Dialogue: 0,0:29:55.00,0:29:58.40,Default,大家,0,0,0,,哦哦哦
-Dialogue: 0,0:29:58.40,0:29:59.56,Default,mano,0,0,0,,耶
-Dialogue: 0,0:29:59.56,0:30:02.48,Default,mae,0,0,0,,限时15秒
-Dialogue: 0,0:30:01.38,0:30:03.24,Default,mano,0,0,0,,15秒啊
-Dialogue: 0,0:30:02.48,0:30:04.06,Default,mae,0,0,0,,准备好了吗？
-Dialogue: 0,0:30:04.06,0:30:04.86,Default,mano,0,0,0,,没问题了！
-Dialogue: 0,0:30:04.86,0:30:08.16,Default,mae,0,0,0,,好的 那就赶快开始吧
-Dialogue: 0,0:30:08.16,0:30:09.98,Default,mae,0,0,0,,准备——开始！
-Dialogue: 0,0:30:09.98,0:30:13.88,Default,mano,0,0,0,,(莲)真的是褒义上的只想着唱歌的笨蛋
-Dialogue: 0,0:30:13.88,0:30:17.26,Default,mano,0,0,0,,明明是北海道出身却讨厌吃寿司
-Dialogue: 0,0:30:17.26,0:30:19.94,Default,mano,0,0,0,,中之人是伊藤昌弘
-Dialogue: 0,0:30:19.94,0:30:21.86,Default,mano,0,0,0,,中之人特喜欢肌肉
-Dialogue: 0,0:30:21.86,0:30:23.86,Default,mano,0,0,0,,很可爱 还天然
-Dialogue: 0,0:30:22.84,0:30:24.50,Default,masa,0,0,0,,“特喜欢肌肉” 你这说得引起误会啊
-Dialogue: 0,0:30:23.86,0:30:25.86,Default,mano,0,0,0,,真是个好角色
-Dialogue: 0,0:30:27.78,0:30:30.68,Default,mae,0,0,0,,时间到~
-Dialogue: 0,0:30:31.52,0:30:34.34,Default,mae,0,0,0,,介绍得不错啊
-Dialogue: 0,0:30:34.34,0:30:35.96,Default,mano,0,0,0,,是个有魅力的角色
-Dialogue: 0,0:30:35.96,0:30:38.00,Default,masa,0,0,0,,莲的部分是介绍得都到点上了
-Dialogue: 0,0:30:38.00,0:30:42.52,Default,masa,0,0,0,,“特喜欢肌肉” 这话就有歧义了
-Dialogue: 0,0:30:42.52,0:30:46.82,Default,masa,0,0,0,,“喜欢肌肉”既可以说是喜欢别人的肌肉
-Dialogue: 0,0:30:46.82,0:30:51.22,Default,masa,0,0,0,,也可以理解成喜欢自己通过锻炼来达到匀称的体型
-Dialogue: 0,0:30:49.70,0:30:50.92,Default,？,0,0,0,,又开始了？
-Dialogue: 0,0:30:50.92,0:30:52.62,Default,mae,0,0,0,,长篇大论的预感
-Dialogue: 0,0:30:52.18,0:30:53.70,Default,hyu,0,0,0,,下一个下一个
-Dialogue: 0,0:30:53.70,0:30:56.96,Default,mae,0,0,0,,好！接下来请听结人的介绍
-Dialogue: 0,0:30:56.96,0:31:01.38,Default,hyu,0,0,0,,是我 那来介绍一下结人
-Dialogue: 0,0:31:01.38,0:31:05.96,Default,hyu,0,0,0,,我饰演的五稜结人 是文学系的大一学生
-Dialogue: 0,0:31:05.96,0:31:10.54,Default,hyu,0,0,0,,出生在函馆的名门 但虽优秀的兄长们抱有自卑的情感
-Dialogue: 0,0:31:10.54,0:31:12.70,Default,hyu,0,0,0,,一心专注于音乐活动
-Dialogue: 0,0:31:12.70,0:31:15.64,Default,hyu,0,0,0,,心智坚强而且非常乐观
-Dialogue: 0,0:31:15.64,0:31:20.72,Default,hyu,0,0,0,,坚信有一天乐队会成功 让家人刮目相看
-Dialogue: 0,0:31:20.72,0:31:22.88,Default,hyu,0,0,0,,他的信条是“不尝试怎么会知道不行”
-Dialogue: 0,0:31:22.88,0:31:30.24,Default,hyu,0,0,0,,这样没根据的自信让他成为牵引Argonavis的强力领队
-Dialogue: 0,0:31:30.24,0:31:36.30,Default,hyu,0,0,0,,从我来看的话 结人是个非常重视‘邂逅’的人
-Dialogue: 0,0:31:36.30,0:31:41.60,Default,hyu,0,0,0,,Argonavis的故事正是从邂逅开始的
-Dialogue: 0,0:31:41.60,0:31:46.88,Default,hyu,0,0,0,,我暗自觉得他们之间的关系描写得很现实
-Dialogue: 0,0:31:46.88,0:31:54.34,Default,mae,0,0,0,,这样啊 那么抽到结人 阿结 的人是哪位？
-Dialogue: 0,0:31:54.34,0:31:55.20,Default,masa,0,0,0,,这里！
-Dialogue: 0,0:31:55.20,0:31:57.30,Default,大家,0,0,0,,哦哦
-Dialogue: 0,0:31:57.30,0:31:58.62,Default,hyu,0,0,0,,你没问题吧
-Dialogue: 0,0:31:58.62,0:31:59.58,Default,masa,0,0,0,,交给我吧
-Dialogue: 0,0:31:59.58,0:32:01.92,Default,mae,0,0,0,,masa准备好了吗？要开始啦
-Dialogue: 0,0:32:01.92,0:32:04.22,Default,mae,0,0,0,,预备——开始！
-Dialogue: 0,0:32:04.22,0:32:08.48,Default,masa,0,0,0,,结人是Argonavis乐队的领队
-Dialogue: 0,0:32:08.48,0:32:14.64,Default,masa,0,0,0,,他觉得乐队就是家人 非常有人情味
-Dialogue: 0,0:32:14.64,0:32:16.64,Default,masa,0,0,0,,特别看重自己的伙伴们
-Dialogue: 0,0:32:16.64,0:32:19.62,Default,masa,0,0,0,,这一点非常有魅力
-Dialogue: 0,0:32:19.62,0:32:20.82,Default,masa,0,0,0,,说到音乐呢
-Dialogue: 0,0:32:22.68,0:32:24.88,Default,mae,0,0,0,,时间到~！
-Dialogue: 0,0:32:24.88,0:32:26.66,Default,？,0,0,0,,你表情太好笑了
-Dialogue: 0,0:32:26.66,0:32:28.66,Default,mae,0,0,0,,后半部分在提示框里 *这句不确定 需要校对
-Dialogue: 0,0:32:32.16,0:32:38.62,Default,mae,0,0,0,,谢谢展示 那我们继续吧
-Dialogue: 0,0:32:38.62,0:32:40.74,Default,mae,0,0,0,,下一个是我
-Dialogue: 0,0:32:40.74,0:32:45.04,Default,mae,0,0,0,,我饰演的的场航海 是文学系的大一学生
-Dialogue: 0,0:32:45.04,0:32:48.94,Default,mae,0,0,0,,因为哥哥在乐队里而对乐队产生兴趣 开始弹贝斯
-Dialogue: 0,0:32:48.94,0:32:52.88,Default,mae,0,0,0,,负责Argonavis的作词 给乐队命名的也是他
-Dialogue: 0,0:32:52.88,0:32:58.82,Default,mae,0,0,0,,性格谨慎 每当结人发表乐观的看法时 他会提出担忧的想法
-Dialogue: 0,0:32:58.82,0:33:01.84,Default,mae,0,0,0,,但那也是因为他一心想要乐队成功
-Dialogue: 0,0:33:01.84,0:33:05.16,Default,mae,0,0,0,,有结人和航海的平衡 才有现在的Argonavis
-Dialogue: 0,0:33:05.16,0:33:11.14,Default,mae,0,0,0,,可以说是能及时给结人刹车的角色
-Dialogue: 0,0:33:11.14,0:33:13.74,Default,mae,0,0,0,,抽到航海的人是？
-Dialogue: 0,0:33:14.84,0:33:15.44,Default,mae,0,0,0,,我
-Dialogue: 0,0:33:15.44,0:33:19.90,Default,大家,0,0,0,,咦？？真的假的？好厉害！这都能抽到
-Dialogue: 0,0:33:19.90,0:33:22.00,Default,mae,0,0,0,,抽到了
-Dialogue: 0,0:33:22.00,0:33:23.16,Default,？,0,0,0,,还有这种事？
-Dialogue: 0,0:33:23.16,0:33:24.74,Default,mae,0,0,0,,会有这种事的
-Dialogue: 0,0:33:24.74,0:33:27.10,Default,mae,0,0,0,,我边抽就边发觉到 嗯？说不好会...
-Dialogue: 0,0:33:27.10,0:33:28.78,Default,mae,0,0,0,,一看果然 抽到了
-Dialogue: 0,0:33:28.78,0:33:29.94,Default,hyu,0,0,0,,好厉害
-Dialogue: 0,0:33:29.94,0:33:33.46,Default,mae,0,0,0,,于是呢就由我来介绍了
-Dialogue: 0,0:33:33.46,0:33:35.82,Default,mae,0,0,0,,计时开始！
-Dialogue: 0,0:33:39.16,0:33:40.34,Default,mae,0,0,0,,航海他喜欢甜食 辣的东西吃不来
-Dialogue: 0,0:33:40.34,0:33:42.52,Default,mae,0,0,0,,是个超 甜食派男子
-Dialogue: 0,0:33:42.52,0:33:45.92,Default,mae,0,0,0,,正好我也吃不了辣 也喜欢吃甜食
-Dialogue: 0,0:33:45.92,0:33:48.62,Default,mae,0,0,0,,那我就和航海一起坚持吃零食到底
-Dialogue: 0,0:33:48.62,0:33:50.62,Default,mae,0,0,0,,然后 说到人际关系
-Dialogue: 0,0:33:50.62,0:33:54.16,Default,mae,0,0,0,,对成员每一个人的态度
-Dialogue: 0,0:33:54.16,0:33:56.56,Default,mae,0,0,0,,希望大家能仔细关注一下
-Dialogue: 0,0:33:57.74,0:34:00.60,Default,hyu,0,0,0,,咦 是自我介绍？
-Dialogue: 0,0:34:00.60,0:34:04.14,Default,mae,0,0,0,,自己介绍自己的他人介绍环节
-Dialogue: 0,0:34:04.14,0:34:08.50,Default,mae,0,0,0,,什么事情都有可能发生
-Dialogue: 0,0:34:08.50,0:34:10.96,Default,mae,0,0,0,,那么接下来
-Dialogue: 0,0:34:10.96,0:34:14.96,Default,mrs,0,0,0,,好的！我饰演的桔梗凛生呢
-Dialogue: 0,0:34:14.96,0:34:17.28,Default,mrs,0,0,0,,是政治经济学系的大一学生
-Dialogue: 0,0:34:17.28,0:34:19.98,Default,mrs,0,0,0,,从儿时起 不论是学习 运动 还是音乐
-Dialogue: 0,0:34:19.98,0:34:24.16,Default,mrs,0,0,0,,不论做什么都是万能 身边的人都称他为神通
-Dialogue: 0,0:34:24.16,0:34:28.04,Default,mrs,0,0,0,,特别是棒球 本来是被寄予厚望的选手
-Dialogue: 0,0:34:28.04,0:34:31.84,Default,mrs,0,0,0,,出征甲子园前因伤退场 断了棒球选手之路
-Dialogue: 0,0:34:31.84,0:34:35.06,Default,mrs,0,0,0,,不会彰显自己的情绪 有点难以靠近的感觉
-Dialogue: 0,0:34:35.06,0:34:39.10,Default,mrs,0,0,0,,却很快答应了结人的入队请求
-Dialogue: 0,0:34:39.10,0:34:42.70,Default,mrs,0,0,0,,在Argonavis里他饭量最大
-Dialogue: 0,0:34:42.70,0:34:44.72,Default,mrs,0,0,0,,就是这样的角色
-Dialogue: 0,0:34:44.72,0:34:49.68,Default,mrs,0,0,0,,是啊 凛生真的很能吃啊
-Dialogue: 0,0:34:51.40,0:34:53.00,Default,mrs,0,0,0,,而且还挺瘦
-Dialogue: 0,0:34:53.00,0:34:55.00,Default,mrs,0,0,0,,都是肌肉啊！
-Dialogue: 0,0:34:55.00,0:34:57.86,Default,mrs,0,0,0,,日常消费的卡路里很多
-Dialogue: 0,0:34:57.86,0:34:59.60,Default,mae,0,0,0,,是搞体育的
-Dialogue: 0,0:34:59.60,0:35:03.82,Default,mrs,0,0,0,,对 原来打棒球的 毕竟是目标甲子园的级别
-Dialogue: 0,0:35:03.82,0:35:04.92,Default,mae,0,0,0,,原来如此 原来如此
-Dialogue: 0,0:35:04.92,0:35:08.82,Default,hyu,0,0,0,,之前官方推特上不是发过吗？小漫画
-Dialogue: 0,0:35:08.82,0:35:11.66,Default,hyu,0,0,0,,一秒钟就把咖喱都吃了！
-Dialogue: 0,0:35:13.50,0:35:16.28,Default,mrs,0,0,0,,人家那是肚子饿了没办法啊
-Dialogue: 0,0:35:16.28,0:35:18.28,Default,hyu,0,0,0,,真的好有趣
-Dialogue: 0,0:35:18.28,0:35:23.66,Default,mrs,0,0,0,,是吧？小漫画好有意思 期待更多四格漫画
-Dialogue: 0,0:35:23.66,0:35:25.66,Default,mae,0,0,0,,确实很有意思
-Dialogue: 0,0:35:25.66,0:35:30.08,Default,mae,0,0,0,,好 那么抽到了能吃的桔梗同学的人是？
-Dialogue: 0,0:35:30.92,0:35:32.22,Default,jin,0,0,0,,这里！
-Dialogue: 0,0:35:32.22,0:35:32.86,Default,mae,0,0,0,,仁君！
-Dialogue: 0,0:35:32.86,0:35:33.68,Default,jin,0,0,0,,谢谢了
-Dialogue: 0,0:35:34.88,0:35:36.56,Default,mae,0,0,0,,做好心理准备了吗？
-Dialogue: 0,0:35:36.56,0:35:38.78,Default,jin,0,0,0,,做好了
-Dialogue: 0,0:35:38.78,0:35:40.40,Default,mae,0,0,0,,那么就开始了哦
-Dialogue: 0,0:35:40.40,0:35:42.96,Default,mae,0,0,0,,预备——开始！
-Dialogue: 0,0:35:42.96,0:35:48.04,Default,jin,0,0,0,,这个桔梗凛生呢 真的是各种天赋齐聚的天才
-Dialogue: 0,0:35:48.04,0:35:50.64,Default,jin,0,0,0,,而我喜欢的地方正是
-Dialogue: 0,0:35:50.64,0:35:54.30,Default,jin,0,0,0,,明明这样多才多艺的人 在乐队里却是键盘手
-Dialogue: 0,0:35:54.30,0:35:57.58,Default,jin,0,0,0,,是在最后面 支持大家的位置
-Dialogue: 0,0:35:57.58,0:35:59.58,Default,jin,0,0,0,,我喜欢这样的反差
-Dialogue: 0,0:35:59.58,0:36:03.48,Default,大家,0,0,0,,哦哦好厉害 说得真好
-Dialogue: 0,0:36:03.48,0:36:04.68,Default,jin,0,0,0,,就该这样
-Dialogue: 0,0:36:06.44,0:36:08.28,Default,jin,0,0,0,,就是这样
-Dialogue: 0,0:36:08.28,0:36:11.42,Default,mae,0,0,0,,都挑不出刺来
-Dialogue: 0,0:36:11.42,0:36:13.54,Default,mae,0,0,0,,谢谢了
-Dialogue: 0,0:36:13.54,0:36:15.54,Default,jin,0,0,0,,紧张死我了
-Dialogue: 0,0:36:15.54,0:36:17.90,Default,mae,0,0,0,,来来来下一个
-Dialogue: 0,0:36:17.90,0:36:19.90,Default,hey,0,0,0,,好的 是我！
-Dialogue: 0,0:36:19.90,0:36:23.98,Default,hey,0,0,0,,接下来是我饰演的白石万浬
-Dialogue: 0,0:36:23.98,0:36:26.02,Default,hey,0,0,0,,商学系的大一学生
-Dialogue: 0,0:36:26.02,0:36:29.84,Default,hey,0,0,0,,为了帮助家里重振负债重重经营困难的牧场
-Dialogue: 0,0:36:29.84,0:36:33.24,Default,hey,0,0,0,,想靠乐队成功大赚一笔
-Dialogue: 0,0:36:33.24,0:36:37.74,Default,hey,0,0,0,,体格虽小 演奏却令人惊讶地非常有力量
-Dialogue: 0,0:36:37.74,0:36:42.16,Default,hey,0,0,0,,是自己提出了想要加入Argonavis
-Dialogue: 0,0:36:42.16,0:36:45.32,Default,hey,0,0,0,,是彻头彻尾的现实主义者 不喜欢做无用功
-Dialogue: 0,0:36:45.32,0:36:48.76,Default,hey,0,0,0,,是兴致勃勃 能让气氛活跃起来的人
-Dialogue: 0,0:36:50.74,0:36:55.22,Default,hey,0,0,0,,嗯 为了重振家里经营困难的牧场
-Dialogue: 0,0:36:55.22,0:36:57.90,Default,hey,0,0,0,,真的是个会为家人着想的孩子
-Dialogue: 0,0:36:57.90,0:37:02.72,Default,hey,0,0,0,,有好多兄弟 当然为他们着想
-Dialogue: 0,0:37:02.72,0:37:07.58,Default,hey,0,0,0,,怎么说呢 掌控Argonavis钱包的人就是万浬了
-Dialogue: 0,0:37:07.58,0:37:10.36,Default,hey,0,0,0,,没有万浬的话会怎么样就不好说了
-Dialogue: 0,0:37:10.36,0:37:15.10,Default,hey,0,0,0,,某种意义上来说也是乐队的妈妈了
-Dialogue: 0,0:37:15.10,0:37:17.40,Default,hey,0,0,0,,还有就是 演奏很有力量
-Dialogue: 0,0:37:17.40,0:37:21.16,Default,hey,0,0,0,,到底是到什么程度呢？录音的时候
-Dialogue: 0,0:37:21.16,0:37:26.72,Default,hey,0,0,0,,我一看剧本 真的是相当有力量 大家期待一下
-Dialogue: 0,0:37:26.72,0:37:30.02,Default,mae,0,0,0,,听得让人更加期待动画了
-Dialogue: 0,0:37:30.02,0:37:33.38,Default,mae,0,0,0,,那么 抽到万浬的人是？
-Dialogue: 0,0:37:33.38,0:37:34.00,Default,mrs,0,0,0,,我！
-Dialogue: 0,0:37:34.00,0:37:35.66,Default,大家,0,0,0,,哦哦
-Dialogue: 0,0:37:35.66,0:37:37.40,Default,mae,0,0,0,,是森岛！
-Dialogue: 0,0:37:37.40,0:37:38.52,Default,mrs,0,0,0,,万浬！
-Dialogue: 0,0:37:38.52,0:37:40.52,Default,mae,0,0,0,,15秒准备好了吗？
-Dialogue: 0,0:37:40.52,0:37:41.08,Default,mrs,0,0,0,,好了
-Dialogue: 0,0:37:41.08,0:37:42.18,Default,mae,0,0,0,,那就开始吧
-Dialogue: 0,0:37:42.18,0:37:44.46,Default,mae,0,0,0,,预备——开始！
-Dialogue: 0,0:37:44.46,0:37:49.38,Default,mrs,0,0,0,,万浬 他总是想着要振兴家里的牧场
-Dialogue: 0,0:37:49.38,0:37:51.50,Default,mrs,0,0,0,,如此的为家人着想
-Dialogue: 0,0:37:51.50,0:37:57.50,Default,mrs,0,0,0,,我觉得他是这个动画里的登场人物中最有人情味的一个
-Dialogue: 0,0:37:57.50,0:38:00.80,Default,mrs,0,0,0,,喜欢这样充满温情的他
-Dialogue: 0,0:38:01.36,0:38:07.14,Default,大家,0,0,0,,哦哦哦 好厉害 不愧是
-Dialogue: 0,0:38:07.14,0:38:09.54,Default,mrs,0,0,0,,说完了！
-Dialogue: 0,0:38:09.54,0:38:11.54,Default,?,0,0,0,,好有气势
-Dialogue: 0,0:38:11.54,0:38:14.28,Default,mae,0,0,0,,对万浬解释得太到位了
-Dialogue: 0,0:38:16.26,0:38:19.20,Default,mrs,0,0,0,,确实是觉得他最有人情味
-Dialogue: 0,0:38:19.20,0:38:22.48,Default,mae,0,0,0,,原来如此 原来如此 感谢发言
-Dialogue: 0,0:38:22.48,0:38:26.04,Default,mae,0,0,0,,那么就来下一位 是谁呢？
-Dialogue: 0,0:38:26.04,0:38:28.02,Default,jin,0,0,0,,是我
-Dialogue: 0,0:38:28.02,0:38:34.94,Default,jin,0,0,0,,我和真野所饰演的角色所属的实rl(咬)
-Dialogue: 0,0:38:34.94,0:38:38.02,Default,大家,0,0,0,,哈哈哈哈哈 可爱 紧张了吗
-Dialogue: 0,0:38:38.02,0:38:41.74,Default,jin,0,0,0,,可爱吗 放过我吧
-Dialogue: 0,0:38:41.74,0:38:44.48,Default,mano,0,0,0,,说错了可饶不了你
-Dialogue: 0,0:38:44.48,0:38:51.12,Default,jin,0,0,0,,不好意思 ——接下来介绍实力主义的绝对王者 GYROAXIA
-Dialogue: 0,0:38:51.12,0:38:54.40,Default,jin,0,0,0,,GYROAXIA这个乐队 是围绕着孤高的主唱
-Dialogue: 0,0:38:54.40,0:38:58.94,Default,jin,0,0,0,,旭那由多组建的 实力主义的乐队
-Dialogue: 0,0:38:58.94,0:39:01.28,Default,jin,0,0,0,,君临与不可动摇的顶点的那由多 支持着他的有
-Dialogue: 0,0:39:01.28,0:39:03.28,Default,jin,0,0,0,,沉着冷静的领队贤汰
-Dialogue: 0,0:39:03.28,0:39:04.92,Default,jin,0,0,0,,顽固且认真的礼音
-Dialogue: 0,0:39:04.92,0:39:07.62,Default,jin,0,0,0,,自称来自宇宙的男人 涼
-Dialogue: 0,0:39:07.62,0:39:10.04,Default,jin,0,0,0,,禁欲色男子 深幸
-Dialogue: 0,0:39:10.04,0:39:12.28,Default,jin,0,0,0,,就是一支这样的乐队
-Dialogue: 0,0:39:12.28,0:39:17.46,Default,jin,0,0,0,,然后说到角色 首先来介绍我饰演的旭那由多
-Dialogue: 0,0:39:17.46,0:39:18.38,Default,jin,0,0,0,,他好帅啊对吧
-Dialogue: 0,0:39:18.38,0:39:21.02,Default,jin,0,0,0,,法学系的大一学生
-Dialogue: 0,0:39:21.02,0:39:25.36,Default,jin,0,0,0,,以压倒性的因压倒性的歌唱力和领袖魅力支配着GYROAXIA
-Dialogue: 0,0:39:25.36,0:39:29.32,Default,jin,0,0,0,,作词作曲都由他一人担当 他就是乐队的一切
-Dialogue: 0,0:39:29.32,0:39:32.50,Default,jin,0,0,0,,对乐团成员不要求能力外的东西
-Dialogue: 0,0:39:32.50,0:39:35.76,Default,jin,0,0,0,,若没达到要求等级的话 会毫不客气地舍弃
-Dialogue: 0,0:39:35.76,0:39:39.18,Default,jin,0,0,0,,不管是自己还是其他成员 他都不允许有任何妥协
-Dialogue: 0,0:39:39.18,0:39:42.50,Default,jin,0,0,0,,因此而产生的冲突也时有发生
-Dialogue: 0,0:39:42.50,0:39:44.86,Default,jin,0,0,0,,就是这样的角色
-Dialogue: 0,0:39:44.86,0:39:47.02,Default,大家,0,0,0,,原来如此
-Dialogue: 0,0:39:47.02,0:39:49.32,Default,jin,0,0,0,,最开始这里说的这个
-Dialogue: 0,0:39:49.32,0:39:54.46,Default,jin,0,0,0,,“能代替你的人要多少有多少 别误会了”的台词真的是太冲击了
-Dialogue: 0,0:39:54.46,0:39:58.16,Default,jin,0,0,0,,节目之前我也和真野说起来
-Dialogue: 0,0:39:58.16,0:40:03.22,Default,jin,0,0,0,,“嗯...这个乐队日常到底是怎样的啊？”
-Dialogue: 0,0:40:03.22,0:40:05.56,Default,mrs,0,0,0,,就算是公司里也不会这么说话
-Dialogue: 0,0:40:05.56,0:40:07.76,Default,jin,0,0,0,,就是因为不是公司啊
-Dialogue: 0,0:40:07.76,0:40:08.74,Default,jin,0,0,0,,要是这是上司的话
-Dialogue: 0,0:40:08.74,0:40:10.30,Default,mrs,0,0,0,,我要辞职
-Dialogue: 0,0:40:11.52,0:40:20.86,Default,jin,0,0,0,,但反过来想 这样还能让人跟随的话 是相当有领袖魅力和音乐才能
-Dialogue: 0,0:40:20.86,0:40:26.04,Default,jin,0,0,0,,所以怎么说的 有点这种 不自然的领导力
-Dialogue: 0,0:40:26.04,0:40:31.28,Default,jin,0,0,0,,是给人有种很不平衡的反差感的角色
-Dialogue: 0,0:40:31.28,0:40:33.30,Default,mrs,0,0,0,,也有可爱的一面
-Dialogue: 0,0:40:33.30,0:40:34.18,Default,jin,0,0,0,,是啊
-Dialogue: 0,0:40:34.18,0:40:35.16,Default,mrs,0,0,0,,这里写着讨厌虫子
-Dialogue: 0,0:40:35.16,0:40:36.28,Default,jin,0,0,0,,是啊 讨厌虫子
-Dialogue: 0,0:40:36.28,0:40:38.56,Default,mrs,0,0,0,,也有这样让人放不下的一面
-Dialogue: 0,0:40:38.56,0:40:40.08,Default,jin,0,0,0,,就是偶尔会出一点这样的设定
-Dialogue: 0,0:40:40.08,0:40:41.56,Default,mrs,0,0,0,,藏都藏不住
-Dialogue: 0,0:40:41.56,0:40:43.74,Default,jin,0,0,0,,来慢慢地展示角色的魅力（给校对：我听的是徐々にアピールする不是很确定 请double check一下）
-Dialogue: 0,0:40:44.54,0:40:45.12,Default,mano,0,0,0,,真的吗？
-Dialogue: 0,0:40:46.48,0:40:53.16,Default,mae,0,0,0,,好期待啊 那么抽到仁的角色 那由多 的人是？
-Dialogue: 0,0:40:53.16,0:40:56.10,Default,hyu,0,0,0,,是我
-Dialogue: 0,0:40:56.10,0:40:57.60,Default,mae,0,0,0,,是hyuusuke！
-Dialogue: 0,0:40:57.60,0:41:01.26,Default,mae,0,0,0,,那就看你了 准备好了吗？
-Dialogue: 0,0:41:01.26,0:41:03.14,Default,hyu,0,0,0,,好了
-Dialogue: 0,0:41:03.14,0:41:06.34,Default,mae,0,0,0,,那就 预备——开始！
-Dialogue: 0,0:41:06.34,0:41:12.30,Default,hyu,0,0,0,,说到领袖魅力 要是周围的人不认可的话是根本谈不上的
-Dialogue: 0,0:41:12.30,0:41:14.98,Default,hyu,0,0,0,,能让别人感受这种领导力的那由酱
-Dialogue: 0,0:41:14.98,0:41:20.46,Default,hyu,0,0,0,,想必平时就是作风很严肃 作词作曲都有他包揽
-Dialogue: 0,0:41:20.46,0:41:27.88,Default,hyu,0,0,0,,还有就是 Argonavis里森岛模最爱模仿的角色
-Dialogue: 0,0:41:27.88,0:41:31.50,Default,hyu,0,0,0,,森岛最喜欢模仿他了
-Dialogue: 0,0:41:29.06,0:41:31.32,Default,jin,0,0,0,,我怎么没听说过
-Dialogue: 0,0:41:31.50,0:41:32.60,Default,?,0,0,0,,到哪他都要模仿一下
-Dialogue: 0,0:41:32.60,0:41:34.60,Default,jin,0,0,0,,不要模仿Manifesto啊
-Dialogue: 0,0:41:35.84,0:41:37.08,Default,mrs,0,0,0,,不是Manifesto
-Dialogue: 0,0:41:37.08,0:41:37.70,Default,jin,0,0,0,,那是什么？
-Dialogue: 0,0:41:37.70,0:41:40.92,Default,mrs,0,0,0,,是他不爽地说“啊——”的样子
-Dialogue: 0,0:41:40.92,0:41:42.92,Default,jin,0,0,0,,狡辩 是狡辩对吧
-Dialogue: 0,0:41:42.92,0:41:44.14,Default,mrs,0,0,0,,（给校对：这里说了什么？）
-Dialogue: 0,0:41:46.02,0:41:53.28,Default,jin,0,0,0,,我要对Argonavis全员说一句 不要模仿旭那由多玩
-Dialogue: 0,0:41:53.28,0:41:56.32,Default,mae,0,0,0,,但是GYROAXIA的宫内告典之前也模仿了哦
-Dialogue: 0,0:41:56.32,0:42:02.38,Default,jin,0,0,0,,是你哦 听了吗就是你 宫内 就是你第一个带头的
-Dialogue: 0,0:42:02.38,0:42:05.76,Default,jin,0,0,0,,你这样不行 别人都跟着你了
-Dialogue: 0,0:42:05.76,0:42:10.16,Default,mae,0,0,0,,好了好了 谢谢了 我们继续
-Dialogue: 0,0:42:10.16,0:42:12.04,Default,mae,0,0,0,,真野 该你了
-Dialogue: 0,0:42:12.04,0:42:18.72,Default,mano,0,0,0,,好的 我饰演的美园礼音是文学院哲学系的大一学生
-Dialogue: 0,0:42:18.72,0:42:20.72,Default,mano,0,0,0,,忍耐力非常强 也很顽固
-Dialogue: 0,0:42:20.72,0:42:23.98,Default,mano,0,0,0,,虽然强烈反对那由多独裁者式的做法
-Dialogue: 0,0:42:23.98,0:42:29.66,Default,mano,0,0,0,,但还是认同他的才能 相信他可以带领GYROAXIA到达顶点
-Dialogue: 0,0:42:29.66,0:42:34.22,Default,mano,0,0,0,,讨厌认输 是乐团中唯一会对那由多露出敌意的成员
-Dialogue: 0,0:42:34.22,0:42:40.30,Default,mano,0,0,0,,但无法胜过不讲道理的那由多 结果总是会变成礼音被逼忍耐的局面
-Dialogue: 0,0:42:40.30,0:42:42.30,Default,mano,0,0,0,,就是这样的角色了
-Dialogue: 0,0:42:42.30,0:42:46.64,Default,mano,0,0,0,,怎么说呢 他基本说得都没错的
-Dialogue: 0,0:42:46.64,0:42:53.22,Default,mano,0,0,0,,美园礼音说“你怎么能这样”的时候出发点都很正当
-Dialogue: 0,0:42:53.22,0:42:56.72,Default,mano,0,0,0,,但是一旦被说 “你就照着我说的做！”
-Dialogue: 0,0:42:58.18,0:43:00.28,Default,mano,0,0,0,,就这样 “.... ... (忍耐) 唉——！”
-Dialogue: 0,0:42:59.28,0:43:00.74,Default,mae,0,0,0,,就默默照做了
-Dialogue: 0,0:43:00.28,0:43:01.64,Default,mano,0,0,0,,是啊
-Dialogue: 0,0:43:01.64,0:43:03.26,Default,mano,0,0,0,,每次都是重复这个模式
-Dialogue: 0,0:43:04.02,0:43:10.26,Default,mano,0,0,0,,但这啊 怎么说呢 这样的礼音也有可爱的地方
-Dialogue: 0,0:43:10.26,0:43:13.80,Default,mano,0,0,0,,演出结束之后他会有些洋洋得意
-Dialogue: 0,0:43:13.80,0:43:17.04,Default,jin,0,0,0,,是啊是啊
-Dialogue: 0,0:43:17.04,0:43:21.36,Default,mano,0,0,0,,稍微有些得意 然后又马上被那由多“咚——”地按下去
-Dialogue: 0,0:43:21.36,0:43:22.24,Default,mano,0,0,0,,就不说话了
-Dialogue: 0,0:43:23.52,0:43:26.38,Default,mano,0,0,0,,是个也有这样一面的角色
-Dialogue: 0,0:43:26.38,0:43:28.22,Default,mae,0,0,0,,谢谢介绍
-Dialogue: 0,0:43:28.22,0:43:32.60,Default,mae,0,0,0,,那么抽到礼音的人是？
-Dialogue: 0,0:43:32.60,0:43:36.28,Default,hey,0,0,0,,就是我了
-Dialogue: 0,0:43:36.28,0:43:39.06,Default,mae,0,0,0,,那么heyhey 就看你的了
-Dialogue: 0,0:43:39.06,0:43:41.44,Default,mae,0,0,0,,预备——开始！
-Dialogue: 0,0:43:41.44,0:43:46.94,Default,hey,0,0,0,,就包在我身上了！我会好好地超详细地介绍礼音的
-Dialogue: 0,0:43:46.94,0:43:49.88,Default,hey,0,0,0,,请多多指教了！大家！就看我的了！
-Dialogue: 0,0:43:49.88,0:43:54.76,Default,hey,0,0,0,,这个吧 说到礼音呢 就有这一点真的不得不提
-Dialogue: 0,0:43:54.76,0:43:55.92,Default,hey,0,0,0,,颜值高！
-Dialogue: 0,0:43:55.92,0:43:58.52,Default,大家,0,0,0,,哈哈哈哈 等一下啊等一下
+Dialogue: 0,0:11:59.26,0:12:00.96,七星莲 & 伊藤昌弘,masa,0,0,0,,小时候
+Dialogue: 0,0:12:00.96,0:12:05.62,七星莲 & 伊藤昌弘,masa,0,0,0,,父亲临时起意带我参加音乐节
+Dialogue: 0,0:12:06.52,0:12:09.76,七星莲 & 伊藤昌弘,masa,0,0,0,,其实我并不感兴趣
+Dialogue: 0,0:12:10.80,0:12:12.66,七星莲 & 伊藤昌弘,masa,0,0,0,,我觉得一定很无聊
+Dialogue: 0,0:12:13.74,0:12:14.66,七星莲 & 伊藤昌弘,masa,0,0,0,,但其实一点都不无聊
+Dialogue: 0,0:12:15.98,0:12:18.12,七星莲 & 伊藤昌弘,masa,0,0,0,,那里混杂着蓄势待发的能量
+Dialogue: 0,0:12:19.20,0:12:23.36,七星莲 & 伊藤昌弘,masa,0,0,0,,当时有种东西抓住了我的心
+Dialogue: 0,0:12:27.98,0:12:32.08,七星莲 & 伊藤昌弘,masa,0,0,0,,它的真面目
+Dialogue: 0,0:12:32.08,0:12:34.82,七星莲 & 伊藤昌弘,masa,0,0,0,,我依旧在追寻
+Dialogue: 0,0:13:16.64,0:13:21.94,的场航海 & 前田诚二,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜——
+Dialogue: 0,0:13:21.94,0:13:28.64,众,大家,0,0,0,,ARGONAVIS From BanG Dream animation
+Dialogue: 0,0:13:41.96,0:13:50.80,的场航海 & 前田诚二,mae,0,0,0,,终于开始了连续两夜放送的ARGONAVIS Special的第一夜
+Dialogue: 0,0:13:50.80,0:13:55.74,的场航海 & 前田诚二,mae,0,0,0,,因为今天有许多很棒的嘉宾 所以马上介绍一下吧 请！
+Dialogue: 0,0:13:56.52,0:14:00.60,七星莲 & 伊藤昌弘,masa,0,0,0,,我曾经像行尸走肉 但后来拥有了音乐
+Dialogue: 0,0:14:00.60,0:14:02.90,七星莲 & 伊藤昌弘,masa,0,0,0,,现在的我和大家在一起才是活着
+Dialogue: 0,0:14:02.90,0:14:04.74,七星莲 & 伊藤昌弘,masa,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
+Dialogue: 0,0:14:04.74,0:14:08.72,七星莲 & 伊藤昌弘,masa,0,0,0,,Argonavis主唱七星莲的伊藤昌弘 请多指教
+Dialogue: 0,0:14:13.34,0:14:17.00,五棱结人 & 日向大辅,hyu,0,0,0,,不要在意那些细节 我会想办法解决的
+Dialogue: 0,0:14:17.00,0:14:21.76,五棱结人 & 日向大辅,hyu,0,0,0,,同样饰演ARGONAVIS from BanG Dream 嗯…那个…
+Dialogue: 0,0:14:22.82,0:14:29.08,五棱结人 & 日向大辅,hyu,0,0,0,,饰演Argonaivs吉他手五稜结人的日向大辅 这次请多指教
+Dialogue: 0,0:14:31.36,0:14:35.08,的场航海 & 前田诚二,mae,0,0,0,,虽说把梦想挂在嘴边也没什么 但那个责任你会去承担么
+Dialogue: 0,0:14:35.08,0:14:39.76,的场航海 & 前田诚二,mae,0,0,0,,描绘梦想 可是要背负起同伴人生的
+Dialogue: 0,0:14:39.76,0:14:42.92,的场航海 & 前田诚二,mae,0,0,0,,同样饰演ARGONAVIS from BanG Dream!中
+Dialogue: 0,0:14:42.92,0:14:48.66,的场航海 & 前田诚二,mae,0,0,0,,Argonaivs贝斯手的场航海的前田诚二 请多指教
+Dialogue: 0,0:14:51.78,0:14:57.32,桔梗凛生 & 森岛秀太,mrs,0,0,0,,毫无疑问 对你们来说 我能成为重要的部分
+Dialogue: 0,0:14:54.92,0:14:56.20,的场航海 & 前田诚二,mae,0,0,0,,好绝啊 挡脸
+Dialogue: 0,0:14:57.32,0:15:00.76,桔梗凛生 & 森岛秀太,mrs,0,0,0,,同样饰演ARGONAVIS from BanG Dream!中
+Dialogue: 0,0:15:00.76,0:15:06.74,桔梗凛生 & 森岛秀太,mrs,0,0,0,,Argonavis的键盘手 饰演桔梗凛生的森岛秀太 请多指教
+Dialogue: 0,0:15:06.30,0:15:07.38,的场航海 & 前田诚二,mae,0,0,0,,那个不错啊
+Dialogue: 0,0:15:07.18,0:15:08.46,七星莲 & 伊藤昌弘,masa,0,0,0,,还能这样吗？
+Dialogue: 0,0:15:08.08,0:15:09.66,桔梗凛生 & 森岛秀太,mrs,0,0,0,,啊 直接拿来用了
+Dialogue: 0,0:15:09.66,0:15:10.72,白石万浬 & 桥本祥平,hey,0,0,0,,好——
+Dialogue: 0,0:15:11.84,0:15:12.86,桔梗凛生 & 森岛秀太,mrs,0,0,0,,啊 那个是
+Dialogue: 0,0:15:12.86,0:15:15.80,白石万浬 & 桥本祥平,hey,0,0,0,,我为了赚钱可以拼上性命哦
+Dialogue: 0,0:15:15.80,0:15:19.18,白石万浬 & 桥本祥平,hey,0,0,0,,但是大家一起赚钱效率更高
+Dialogue: 0,0:15:19.18,0:15:20.12,白石万浬 & 桥本祥平,hey,0,0,0,,不是吗？
+Dialogue: 0,0:15:20.12,0:15:21.66,白石万浬 & 桥本祥平,hey,0,0,0,,我是饰演ARGONAVIS From BanG Dream!中
+Dialogue: 0,0:15:21.66,0:15:26.66,白石万浬 & 桥本祥平,hey,0,0,0,,Argonavis鼓手白石万浬的桥本祥平 请多指教
+Dialogue: 0,0:15:27.60,0:15:30.10,白石万浬 & 桥本祥平,hey,0,0,0,,啊牙白！拿错了
+Dialogue: 0,0:15:30.10,0:15:31.96,的场航海 & 前田诚二,mae,0,0,0,,故意的吗
+Dialogue: 0,0:15:31.96,0:15:33.46,旭那由多 & 小笠原仁,jin,0,0,0,,除了额头以外都没挡到
+Dialogue: 0,0:15:33.46,0:15:34.66,白石万浬 & 桥本祥平,hey,0,0,0,,好害羞
+Dialogue: 0,0:15:37.82,0:15:42.24,旭那由多 & 小笠原仁,jin,0,0,0,,你身边有很多人可以取代你 这点不要忘记
+Dialogue: 0,0:15:42.24,0:15:44.86,旭那由多 & 小笠原仁,jin,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
+Dialogue: 0,0:15:44.86,0:15:52.36,旭那由多 & 小笠原仁,jin,0,0,0,,GYROAXIA主唱旭那由多的小笠原仁 请多指教
+Dialogue: 0,0:15:56.90,0:15:59.72,美园礼音 & 真野拓实,mano,0,0,0,,我不喜欢那由多
+Dialogue: 0,0:15:59.72,0:16:04.00,美园礼音 & 真野拓实,mano,0,0,0,,但我是GYROAXIA的一员
+Dialogue: 0,0:16:04.00,0:16:06.62,美园礼音 & 真野拓实,mano,0,0,0,,我是饰演ARGONAVIS from BanG Dream!中
+Dialogue: 0,0:16:06.62,0:16:12.64,美园礼音 & 真野拓实,mano,0,0,0,,GYROAXIA吉他手美园礼音的真野拓实 请多指教
+Dialogue: 0,0:16:12.64,0:16:14.64,众,?,0,0,0,,干嘛啊
+Dialogue: 0,0:16:18.92,0:16:21.16,的场航海 & 前田诚二,mae,0,0,0,,内讧得很热闹呢 GYROAXIA
+Dialogue: 0,0:16:21.16,0:16:23.56,的场航海 & 前田诚二,mae,0,0,0,,好的那么总而言之就开始啦
+Dialogue: 0,0:16:23.56,0:16:31.34,的场航海 & 前田诚二,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜「ARGONAVIS from Band Dream！ANIMATION」
+Dialogue: 0,0:16:33.14,0:16:36.02,的场航海 & 前田诚二,mae,0,0,0,,一开始就满电状态啊
+Dialogue: 0,0:16:36.02,0:16:39.78,的场航海 & 前田诚二,mae,0,0,0,,今天由这样7位成员的阵容和大家见面
+Dialogue: 0,0:16:39.78,0:16:43.38,的场航海 & 前田诚二,mae,0,0,0,,到最后也请多多关照喔
+Dialogue: 0,0:16:41.52,0:16:43.38,众,大家,0,0,0,,请多多关照
+Dialogue: 0,0:16:43.38,0:16:45.02,的场航海 & 前田诚二,mae,0,0,0,,好 这个节目 怎么说呢
+Dialogue: 0,0:16:45.02,0:16:52.02,的场航海 & 前田诚二,mae,0,0,0,,虽然写着是一个小时左右的样子 但看台本一个小时是结束不了的
+Dialogue: 0,0:16:52.02,0:16:58.00,的场航海 & 前田诚二,mae,0,0,0,,所以 说不定会稍微有点长 希望大家可以陪我们到最后 拜托啦
+Dialogue: 0,0:16:59.24,0:17:01.94,的场航海 & 前田诚二,mae,0,0,0,,开始的瞬间是「哇唔——-」的感觉 现在气氛差不多静下来了
+Dialogue: 0,0:17:01.94,0:17:04.68,五棱结人 & 日向大辅,hyu,0,0,0,,才没有那回事的 完全没有
+Dialogue: 0,0:17:04.68,0:17:07.68,桔梗凛生 & 森岛秀太,mrs,0,0,0,,因为呢 最开始的时候用「哇唔——」混过去 过会就现原形了
+Dialogue: 0,0:17:07.68,0:17:11.08,众,?,0,0,0,,好危险 说了诶 说了呢
+Dialogue: 0,0:17:11.08,0:17:13.64,的场航海 & 前田诚二,mae,0,0,0,,在后台的时候大家也都很有精神啊
+Dialogue: 0,0:17:13.64,0:17:16.94,桔梗凛生 & 森岛秀太,mrs,0,0,0,,但是仅限刚开始的时候
+Dialogue: 0,0:17:18.10,0:17:20.10,七星莲 & 伊藤昌弘,masa,0,0,0,,（后台）太闹了 坚持到最后吧
+Dialogue: 0,0:17:20.10,0:17:23.52,的场航海 & 前田诚二,mae,0,0,0,,那个啊 据化妆师跟我说
+Dialogue: 0,0:17:23.52,0:17:26.38,的场航海 & 前田诚二,mae,0,0,0,,小笠原仁先生今天非常闹腾
+Dialogue: 0,0:17:26.38,0:17:27.70,旭那由多 & 小笠原仁,jin,0,0,0,,诶 不是真的吧
+Dialogue: 0,0:17:27.70,0:17:29.98,的场航海 & 前田诚二,mae,0,0,0,,在隔壁的化妆室都能听到声音
+Dialogue: 0,0:17:31.80,0:17:33.50,的场航海 & 前田诚二,mae,0,0,0,,感觉特别开心
+Dialogue: 0,0:17:33.50,0:17:34.94,旭那由多 & 小笠原仁,jin,0,0,0,,抱 抱歉
+Dialogue: 0,0:17:33.90,0:17:35.36,美园礼音 & 真野拓实,mano,0,0,0,,即使隔着墙也可以讲话
+Dialogue: 0,0:17:34.94,0:17:38.04,旭那由多 & 小笠原仁,jin,0,0,0,,那个啊 因为隔着墙在和真野拓实聊天
+Dialogue: 0,0:17:39.20,0:17:40.24,五棱结人 & 日向大辅,hyu,0,0,0,,诶好厉害
+Dialogue: 0,0:17:40.24,0:17:41.28,的场航海 & 前田诚二,mae,0,0,0,,那群家伙怎么回事耶
+Dialogue: 0,0:17:41.28,0:17:44.08,桔梗凛生 & 森岛秀太,mrs,0,0,0,,嘛稍微呢 因为上面有薄薄的缝隙 是可行的呢
+Dialogue: 0,0:17:44.08,0:17:46.78,的场航海 & 前田诚二,mae,0,0,0,,好 今天呢那个已经⋯啊感谢
+Dialogue: 0,0:17:46.78,0:17:51.94,的场航海 & 前田诚二,mae,0,0,0,,已经有人发了呢 在推特上加上#アルゴナ第一夜的tag发推
+Dialogue: 0,0:17:51.94,0:17:56.44,的场航海 & 前田诚二,mae,0,0,0,,加上后我们就可以看到啦 谢谢大家
+Dialogue: 0,0:17:56.44,0:18:03.52,的场航海 & 前田诚二,mae,0,0,0,,嗯嗯 因为节目中会经常提到 麻烦大家多多发推
+Dialogue: 0,0:18:03.52,0:18:05.82,的场航海 & 前田诚二,mae,0,0,0,,那么在这次的直播中
+Dialogue: 0,0:18:05.82,0:18:10.22,的场航海 & 前田诚二,mae,0,0,0,,动画和乐队角色的相关情报当然是有的
+Dialogue: 0,0:18:10.22,0:18:12.46,的场航海 & 前田诚二,mae,0,0,0,,还有很多综艺环节和商品的贩售信息周边情报
+Dialogue: 0,0:18:12.46,0:18:18.74,的场航海 & 前田诚二,mae,0,0,0,,此外还有这个节目里初次公开的内容 到最后也务必尽兴喔
+Dialogue: 0,0:18:18.74,0:18:21.06,的场航海 & 前田诚二,mae,0,0,0,,为了防止听漏或看漏错过
+Dialogue: 0,0:18:21.06,0:18:23.44,的场航海 & 前田诚二,mae,0,0,0,,千万不要眨眼喔拜托各位了
+Dialogue: 0,0:18:23.44,0:18:24.90,众,?,0,0,0,,要干眼症了喂
+Dialogue: 0,0:18:26.28,0:18:28.50,的场航海 & 前田诚二,mae,0,0,0,,那可以适当地眨眨眼这样
+Dialogue: 0,0:18:27.74,0:18:30.22,桔梗凛生 & 森岛秀太,mrs,0,0,0,,一直不眨眼很难受的
+Dialogue: 0,0:18:30.22,0:18:32.82,的场航海 & 前田诚二,mae,0,0,0,,推特tag活动 之前说过的
+Dialogue: 0,0:18:32.82,0:18:40.10,的场航海 & 前田诚二,mae,0,0,0,,观看节目时用#アルゴナ第一夜的tag发推
+Dialogue: 0,0:18:40.13,0:18:41.06,的场航海 & 前田诚二,mae,0,0,0,,这个！
+Dialogue: 0,0:18:46.56,0:18:48.86,的场航海 & 前田诚二,mae,0,0,0,,这里这个动画海报
+Dialogue: 0,0:18:48.86,0:18:52.03,的场航海 & 前田诚二,mae,0,0,0,,附有今天所有出演者的签名
+Dialogue: 0,0:18:52.03,0:18:55.83,的场航海 & 前田诚二,mae,0,0,0,,将会抽选三位作为礼物送出喔
+Dialogue: 0,0:18:56.33,0:18:58.80,的场航海 & 前田诚二,mae,0,0,0,,啊 好帅
+Dialogue: 0,0:18:58.96,0:19:00.30,白石万浬 & 桥本祥平,hey,0,0,0,,超棒的
+Dialogue: 0,0:19:00.36,0:19:02.16,美园礼音 & 真野拓实,hey,0,0,0,,和莲一起作为礼物
+Dialogue: 0,0:19:02.23,0:19:03.10,旭那由多 & 小笠原仁,mrs,0,0,0,,我也一起？
+Dialogue: 0,0:19:03.24,0:19:05.36,美园礼音 & 真野拓实,jin,0,0,0,,啊 仁君
+Dialogue: 0,0:19:05.53,0:19:08.00,旭那由多 & 小笠原仁,jin,0,0,0,,那个啊 你别随便乱说啊 啊好危险 好危险
+Dialogue: 0,0:19:10.80,0:19:14.33,旭那由多 & 小笠原仁,jin,0,0,0,,好的喔 这里会向三位送出礼物
+Dialogue: 0,0:19:14.40,0:19:18.23,的场航海 & 前田诚二,mae,0,0,0,,请各位务必积极参加哦 拜托啦
+Dialogue: 0,0:19:19.76,0:19:21.00,五棱结人 & 日向大辅,,0,0,0,,超级稀有的这个
+Dialogue: 0,0:19:21.00,0:19:26.56,的场航海 & 前田诚二,mae,0,0,0,,好了好了 所以说还有很多内容 马上来进行吧
+Dialogue: 0,0:19:26.56,0:19:32.10,的场航海 & 前田诚二,mae,0,0,0,,两夜连续ARGONAVIS特别直播第一夜「ARGONAVIS from BanG Dream！ANIMATION」
+Dialogue: 0,0:19:32.56,0:19:36.70,的场航海 & 前田诚二,mae,0,0,0,,开始！！
+Dialogue: 0,0:19:39.56,0:19:46.66,的场航海 & 前田诚二,大家,0,0,0,,好 首先是要简单介绍一下关于企划「ARGONAVIS from Band Dream！」
+Dialogue: 0,0:19:46.66,0:19:49.23,的场航海 & 前田诚二,mae,0,0,0,,那么——masa君 麻烦你咯
+Dialogue: 0,0:19:49.33,0:19:50.56,的场航海 & 前田诚二,mae,0,0,0,,交给我吧
+Dialogue: 0,0:19:51.56,0:19:52.23,七星莲 & 伊藤昌弘,masa,0,0,0,,我开始啦
+Dialogue: 0,0:21:11.62,0:21:13.18,七星莲 & 伊藤昌弘,masa,0,0,0,,这样的故事
+Dialogue: 0,0:21:13.18,0:21:16.12,的场航海 & 前田诚二,mae,0,0,0,,好的 非常感谢
+Dialogue: 0,0:21:16.12,0:21:20.10,的场航海 & 前田诚二,mae,0,0,0,,确实啊过不了多久了 开播的日子越来越近啦
+Dialogue: 0,0:21:20.10,0:21:22.62,的场航海 & 前田诚二,mae,0,0,0,,大家后期录音怎么样了
+Dialogue: 0,0:21:22.62,0:21:24.62,旭那由多 & 小笠原仁,jin,0,0,0,,诶诶 已经开始录了吗？
+Dialogue: 0,0:21:25.52,0:21:27.62,的场航海 & 前田诚二,mae,0,0,0,,你好烦 你好烦
+Dialogue: 0,0:21:27.62,0:21:29.68,旭那由多 & 小笠原仁,jin,0,0,0,,已经开始录了么竟然
+Dialogue: 0,0:21:29.68,0:21:33.60,美园礼音 & 真野拓实,mano,0,0,0,,不知道吗？诶——
+Dialogue: 0,0:21:33.60,0:21:35.56,的场航海 & 前田诚二,mae,0,0,0,,那么仁君 情况如何呢？
+Dialogue: 0,0:21:35.56,0:21:42.68,旭那由多 & 小笠原仁,jin,0,0,0,,哎呀这个 GYROAXIA聚在一起讨论交流过
+Dialogue: 0,0:21:42.68,0:21:44.52,旭那由多 & 小笠原仁,jin,0,0,0,,因为我们说不定也会出场
+Dialogue: 0,0:21:46.16,0:21:50.30,美园礼音 & 真野拓实,mano,0,0,0,,我们不出场就不会在这里出现了 有什么隐藏的必要吗 想什么呢
+Dialogue: 0,0:21:50.30,0:21:53.44,旭那由多 & 小笠原仁,jin,0,0,0,,嘛是会出场的 那个
+Dialogue: 0,0:21:53.44,0:21:57.44,旭那由多 & 小笠原仁,jin,0,0,0,,像是乐队练习的情报交换会
+Dialogue: 0,0:21:57.44,0:22:02.88,旭那由多 & 小笠原仁,jin,0,0,0,,确实是各方面都很快乐的现场呢
+Dialogue: 0,0:22:02.88,0:22:09.16,的场航海 & 前田诚二,mae,0,0,0,,还有Argonavis本编的动画 Argonavis的成员相遇的故事
+Dialogue: 0,0:22:09.16,0:22:15.88,的场航海 & 前田诚二,mae,0,0,0,,是怎样的相遇方式让大家组成了一个乐队 这些还请务必期待
+Dialogue: 0,0:22:15.02,0:22:15.80,五棱结人 & 日向大辅,hyu,0,0,0,,让人很在意呢
+Dialogue: 0,0:22:15.88,0:22:20.50,的场航海 & 前田诚二,mae,0,0,0,,好的 就是这样动画「ARGONAVIS from Band Dream！」的注目点
+Dialogue: 0,0:22:20.56,0:22:22.30,的场航海 & 前田诚二,,0,0,0,,总结了三个
+Dialogue: 0,0:22:22.30,0:22:25.88,的场航海 & 前田诚二,mae,0,0,0,,现在来介绍一下 那么开始咯 请看这里——
+Dialogue: 0,0:22:29.82,0:22:35.46,的场航海 & 前田诚二,mae,0,0,0,,这个喔 刚刚说过的 和成员以及和GYROAXIA的相遇
+Dialogue: 0,0:22:35.46,0:22:37.20,的场航海 & 前田诚二,mae,0,0,0,,好的 然后呢然后——
+Dialogue: 0,0:22:44.84,0:22:51.20,的场航海 & 前田诚二,mae,0,0,0,,在听着乐曲的同时跟进情节的发展
+Dialogue: 0,0:22:51.20,0:22:53.20,的场航海 & 前田诚二,mae,0,0,0,,最后是这个——
+Dialogue: 0,0:22:59.44,0:23:00.66,五棱结人 & 日向大辅,hyu,0,0,0,,做了动作捕捉呢
+Dialogue: 0,0:23:02.08,0:23:04.44,白石万浬 & 桥本祥平,?,0,0,0,,大家都变成了モジモジ君（全身黑色紧身衣连头都包住的那个）
+Dialogue: 0,0:23:04.44,0:23:06.44,七星莲 & 伊藤昌弘,?,0,0,0,,不要说是モジモジ君啊
+Dialogue: 0,0:23:07.70,0:23:10.98,的场航海 & 前田诚二,mae,0,0,0,,好哒 这里呢 在现场和监督还有工作人员
+Dialogue: 0,0:23:10.98,0:23:18.28,的场航海 & 前田诚二,mae,0,0,0,,一边听一边做了很多讨论 这里也是请大家一定期待喔
+Dialogue: 0,0:23:18.28,0:23:24.38,的场航海 & 前田诚二,mae,0,0,0,,总之就是这样 另外呢 这次会公开动画的预告片
+Dialogue: 0,0:23:24.38,0:23:29.32,的场航海 & 前田诚二,mae,0,0,0,,想请大家看一下 那么请看
+Dialogue: 0,0:23:32.38,0:23:36.56,七星莲 & 伊藤昌弘,masa,0,0,0,,那里混杂着蓄势待发的能量
+Dialogue: 0,0:23:38.58,0:23:41.86,七星莲 & 伊藤昌弘,masa,0,0,0,,当时有种东西抓住了我的心
+Dialogue: 0,0:23:41.86,0:23:43.50,七星莲 & 伊藤昌弘,masa,0,0,0,,它的真面目
+Dialogue: 0,0:23:44.90,0:23:46.50,七星莲 & 伊藤昌弘,masa,0,0,0,,我依旧在追寻
+Dialogue: 0,0:23:57.30,0:23:59.84,的场航海 & 前田诚二,mae,0,0,0,,运气就这么好吗
+Dialogue: 0,0:23:59.84,0:24:03.34,五棱结人 & 日向大辅,hyu,0,0,0,,正因为遇见了你 所以运气才最好啊
+Dialogue: 0,0:24:03.34,0:24:05.56,五棱结人 & 日向大辅,hyu,0,0,0,,因为有了命运的邂逅
+Dialogue: 0,0:24:07.90,0:24:11.78,桔梗凛生 & 森岛秀太,mrs,0,0,0,,我身上到底还有没有[希望]啊
+Dialogue: 0,0:24:12.80,0:24:16.50,白石万浬 & 桥本祥平,hey,0,0,0,,如果你能答应让我发财 我就加入你们
+Dialogue: 0,0:24:16.50,0:24:20.30,七星莲 & 伊藤昌弘,masa,0,0,0,,那种感觉 我还想再品味一次
+Dialogue: 0,0:24:21.16,0:24:24.12,七星莲 & 伊藤昌弘,masa,0,0,0,,南船座（ARGONAVIS）的第一班船
+Dialogue: 0,0:24:24.12,0:24:26.48,七星莲 & 伊藤昌弘,masa,0,0,0,,就从这里开始
+Dialogue: 0,0:24:50.86,0:24:53.80,七星莲 & 伊藤昌弘,masa,0,0,0,,动画[ARGONAVIS from BanG Dream! 梦想协奏曲]
+Dialogue: 0,0:24:57.06,0:24:58.76,七星莲 & 伊藤昌弘,masa,0,0,0,,放送开始
+Dialogue: 0,0:25:02.30,0:25:03.86,白石万浬 & 桥本祥平,hey,0,0,0,,好帅！
+Dialogue: 0,0:25:03.86,0:25:05.86,的场航海 & 前田诚二,mae,0,0,0,,好厉害
+Dialogue: 0,0:25:05.86,0:25:09.82,白石万浬 & 桥本祥平,hey,0,0,0,,真的好好啊 昨天播出的时候我在电视上看了
+Dialogue: 0,0:25:10.84,0:25:12.04,白石万浬 & 桥本祥平,hey,0,0,0,,真的看了哦！
+Dialogue: 0,0:25:12.04,0:25:12.66,七星莲 & 伊藤昌弘,?,0,0,0,,看了直播？
+Dialogue: 0,0:25:12.66,0:25:13.10,白石万浬 & 桥本祥平,hey,0,0,0,,对我按时看的
+Dialogue: 0,0:25:13.10,0:25:14.40,众,?,0,0,0,,真好啊
+Dialogue: 0,0:25:14.40,0:25:15.62,白石万浬 & 桥本祥平,hey,0,0,0,,为此熬夜了
+Dialogue: 0,0:25:16.48,0:25:19.08,众,?,0,0,0,,熬夜是坏孩子
+Dialogue: 0,0:25:19.08,0:25:22.34,的场航海 & 前田诚二,mae,0,0,0,,看完觉得怎么样 masa君你觉得怎么样
+Dialogue: 0,0:25:22.34,0:25:23.96,的场航海 & 前田诚二,mae,0,0,0,,感觉莲跑了好多步
+Dialogue: 0,0:25:23.96,0:25:27.72,七星莲 & 伊藤昌弘,masa,0,0,0,,啊 这个嘛 毕竟是动画的预告片
+Dialogue: 0,0:25:27.72,0:25:31.44,七星莲 & 伊藤昌弘,masa,0,0,0,,怎么说呢 等开始播出了
+Dialogue: 0,0:25:31.44,0:25:34.58,七星莲 & 伊藤昌弘,masa,0,0,0,,这“为什么在跑呢”的问题
+Dialogue: 0,0:25:34.58,0:25:36.88,七星莲 & 伊藤昌弘,masa,0,0,0,,到时候就会解释清了
+Dialogue: 0,0:25:36.88,0:25:38.98,七星莲 & 伊藤昌弘,masa,0,0,0,,真的是有好多这样的场景啊
+Dialogue: 0,0:25:38.98,0:25:41.02,七星莲 & 伊藤昌弘,masa,0,0,0,,我们现在看到的这个背景画面
+Dialogue: 0,0:25:41.02,0:25:42.40,七星莲 & 伊藤昌弘,masa,0,0,0,,是(函馆市的)八幡坂
+Dialogue: 0,0:25:42.40,0:25:47.52,七星莲 & 伊藤昌弘,masa,0,0,0,,类似这样的函馆市街景 在动画里都画得很好看哦！
+Dialogue: 0,0:25:48.50,0:25:50.02,七星莲 & 伊藤昌弘,masa,0,0,0,,这可是很厉害的！
+Dialogue: 0,0:25:50.02,0:25:51.32,白石万浬 & 桥本祥平,大家,0,0,0,,好厉害
+Dialogue: 0,0:25:51.32,0:25:52.90,五棱结人 & 日向大辅,hyu,0,0,0,,画面真的很好看
+Dialogue: 0,0:25:53.66,0:25:54.80,五棱结人 & 日向大辅,hyu,0,0,0,,看得都感动了
+Dialogue: 0,0:25:54.80,0:25:56.92,七星莲 & 伊藤昌弘,masa,0,0,0,,真的好厉害 风景特别漂亮
+Dialogue: 0,0:25:56.92,0:25:59.12,白石万浬 & 桥本祥平,?,0,0,0,,推特上有人说“是神曲”
+Dialogue: 0,0:25:59.12,0:26:02.30,众,大家,0,0,0,,谢谢 谢谢
+Dialogue: 0,0:26:02.30,0:26:04.84,的场航海 & 前田诚二,mae,0,0,0,,这位说“预告片看了好几遍 很喜欢”
+Dialogue: 0,0:26:04.84,0:26:05.64,的场航海 & 前田诚二,mae,0,0,0,,谢谢
+Dialogue: 0,0:26:05.64,0:26:06.92,众,大家,0,0,0,,“想去函馆~~~！！！”
+Dialogue: 0,0:26:06.92,0:26:08.92,五棱结人 & 日向大辅,hyu,0,0,0,,去吧 我们一起去吧！
+Dialogue: 0,0:26:08.92,0:26:11.46,旭那由多 & 小笠原仁,jin,0,0,0,,但是确实要去的吧？
+Dialogue: 0,0:26:11.46,0:26:13.64,众,大家,0,0,0,,是啊 总有一天要去
+Dialogue: 0,0:26:13.64,0:26:15.74,的场航海 & 前田诚二,mae,0,0,0,,是想着一定要去
+Dialogue: 0,0:26:15.74,0:26:19.40,众,？,0,0,0,,hey我们也想去札幌
+Dialogue: 0,0:26:16.84,0:26:18.36,五棱结人 & 日向大辅,hyu,0,0,0,,别忘了带纪念品回来
+Dialogue: 0,0:26:19.40,0:26:20.92,桔梗凛生 & 森岛秀太,mrs,0,0,0,,jin会买纪念品回来的
+Dialogue: 0,0:26:22.00,0:26:22.88,众,？,0,0,0,,札幌纪念品？
+Dialogue: 0,0:26:22.88,0:26:23.94,的场航海 & 前田诚二,mae,0,0,0,,带点雪回来就行了
+Dialogue: 0,0:26:24.44,0:26:25.94,美园礼音 & 真野拓实,mano,0,0,0,,雪？
+Dialogue: 0,0:26:25.94,0:26:28.34,旭那由多 & 小笠原仁,jin,0,0,0,,把雪一路带到这里来还是有点难度吧
+Dialogue: 0,0:26:28.34,0:26:31.26,桔梗凛生 & 森岛秀太,mrs,0,0,0,,放在保温箱里带过来
+Dialogue: 0,0:26:31.26,0:26:33.26,旭那由多 & 小笠原仁,jin,0,0,0,,怎么讨论得这么当真
+Dialogue: 0,0:26:33.26,0:26:35.96,白石万浬 & 桥本祥平,hey,0,0,0,,那就钥匙链
+Dialogue: 0,0:26:35.96,0:26:39.26,旭那由多 & 小笠原仁,jin,0,0,0,,这下确实是纪念品了 但是不需要的好吗？？
+Dialogue: 0,0:26:39.26,0:26:41.26,旭那由多 & 小笠原仁,jin,0,0,0,,钥匙链 真的不想收
+Dialogue: 0,0:26:41.26,0:26:43.48,旭那由多 & 小笠原仁,jin,0,0,0,,心意是领了
+Dialogue: 0,0:26:43.48,0:26:48.40,的场航海 & 前田诚二,mae,0,0,0,,好了好了 动画马上要播出了大家一定都很期待
+Dialogue: 0,0:26:48.40,0:26:54.82,的场航海 & 前田诚二,mae,0,0,0,,下面来介绍一下我们饰演的各个角色所属的乐队
+Dialogue: 0,0:26:54.82,0:27:00.12,的场航海 & 前田诚二,mae,0,0,0,,但是呢 为了加深对角色的理解
+Dialogue: 0,0:27:00.12,0:27:02.30,的场航海 & 前田诚二,mae,0,0,0,,我们准备让别人来介绍不是自己的角色！
+Dialogue: 0,0:27:02.30,0:27:04.84,众,大家,0,0,0,,哦？介绍别人的角色？
+Dialogue: 0,0:27:04.84,0:27:05.68,七星莲 & 伊藤昌弘,masa,0,0,0,,octopus？(章鱼？)
+Dialogue: 0,0:27:05.68,0:27:07.22,的场航海 & 前田诚二,mae,0,0,0,,不是那个tako (同音梗)
+Dialogue: 0,0:27:07.22,0:27:08.72,众,?,0,0,0,,那鱿鱼介绍
+Dialogue: 0,0:27:08.72,0:27:11.02,的场航海 & 前田诚二,mae,0,0,0,,还搞鱿鱼介绍？
+Dialogue: 0,0:27:11.02,0:27:13.40,桔梗凛生 & 森岛秀太,mrs,0,0,0,,是“以下”(同鱿鱼ika)介绍 把以下内容全部介绍一遍
+Dialogue: 0,0:27:13.40,0:27:16.04,的场航海 & 前田诚二,mae,0,0,0,,这么解释也行吧
+Dialogue: 0,0:27:16.04,0:27:20.84,的场航海 & 前田诚二,mae,0,0,0,,那么先请大家先简短地介绍一下自己的角色
+Dialogue: 0,0:27:20.84,0:27:28.22,的场航海 & 前田诚二,mae,0,0,0,,然后再由另一个人来展示一下角色的魅力
+Dialogue: 0,0:27:28.22,0:27:33.50,的场航海 & 前田诚二,mae,0,0,0,,举例来说 莲的话 先由masa来稍微介绍一下
+Dialogue: 0,0:27:33.50,0:27:35.14,的场航海 & 前田诚二,mae,0,0,0,,然后大家来抽签
+Dialogue: 0,0:27:35.14,0:27:37.46,的场航海 & 前田诚二,mae,0,0,0,,假设是hyuusuke抽到了
+Dialogue: 0,0:27:37.46,0:27:40.30,的场航海 & 前田诚二,mae,0,0,0,,那hyuusuke就要来介绍莲
+Dialogue: 0,0:27:40.30,0:27:41.28,七星莲 & 伊藤昌弘,masa,0,0,0,,原来如此
+Dialogue: 0,0:27:41.28,0:27:43.02,的场航海 & 前田诚二,mae,0,0,0,,就是这样
+Dialogue: 0,0:27:43.02,0:27:47.60,五棱结人 & 日向大辅,hyu,0,0,0,,(模仿心跳声)
+Dialogue: 0,0:27:45.12,0:27:46.80,的场航海 & 前田诚二,mae,0,0,0,,你心脏还好吧
+Dialogue: 0,0:27:50.84,0:27:53.72,众,?,0,0,0,,可怕 恐怖片啊 MJ的那首Thriller一样
+Dialogue: 0,0:27:56.12,0:27:57.32,的场航海 & 前田诚二,mae,0,0,0,,好了继续
+Dialogue: 0,0:27:57.32,0:28:00.94,的场航海 & 前田诚二,mae,0,0,0,,既然大家要介绍的都是身边熟悉的角色
+Dialogue: 0,0:28:00.94,0:28:02.94,的场航海 & 前田诚二,mae,0,0,0,,肯定就...对吧？
+Dialogue: 0,0:28:02.94,0:28:04.86,众,大家,0,0,0,,嗯嗯 对啊 对啊
+Dialogue: 0,0:28:04.86,0:28:07.54,的场航海 & 前田诚二,mae,0,0,0,,你们“对啊”太多遍了
+Dialogue: 0,0:28:07.54,0:28:09.98,的场航海 & 前田诚二,mae,0,0,0,,那我们就赶快开始吧
+Dialogue: 0,0:28:09.98,0:28:13.20,的场航海 & 前田诚二,mae,0,0,0,,来请抽签吧
+Dialogue: 0,0:28:14.20,0:28:15.78,七星莲 & 伊藤昌弘,masa,0,0,0,,从我这边开始抽
+Dialogue: 0,0:28:15.78,0:28:16.84,众,?,0,0,0,,好紧张啊
+Dialogue: 0,0:28:16.34,0:28:18.88,的场航海 & 前田诚二,mae,0,0,0,,我们先一个接一个都抽完吧
+Dialogue: 0,0:28:18.88,0:28:20.76,七星莲 & 伊藤昌弘,masa,0,0,0,,deng deng deng deng
+Dialogue: 0,0:28:23.72,0:28:25.36,众,大家,0,0,0,,deng deng deng deng
+Dialogue: 0,0:28:25.36,0:28:26.92,桔梗凛生 & 森岛秀太,mrs,0,0,0,,效果音？
+Dialogue: 0,0:28:28.62,0:28:30.10,桔梗凛生 & 森岛秀太,mrs,0,0,0,,我不想唱啊
+Dialogue: 0,0:28:30.10,0:28:33.38,的场航海 & 前田诚二,mae,0,0,0,,每个人会抽到不一样的角色
+Dialogue: 0,0:28:35.34,0:28:38.58,桔梗凛生 & 森岛秀太,mrs,0,0,0,,超级不想 超级不愿意啊
+Dialogue: 0,0:28:46.78,0:28:48.42,七星莲 & 伊藤昌弘,masa,0,0,0,,现在就可以看吗？
+Dialogue: 0,0:28:50.62,0:28:53.94,的场航海 & 前田诚二,mae,0,0,0,,别让别人看见就行
+Dialogue: 0,0:28:53.94,0:28:59.20,的场航海 & 前田诚二,mae,0,0,0,,啊 原来如此
+Dialogue: 0,0:28:55.08,0:28:57.42,桔梗凛生 & 森岛秀太,mrs,0,0,0,,那就请大家之后介绍抽到的角色了
+Dialogue: 0,0:28:58.30,0:29:00.10,众,大家,0,0,0,,好~
+Dialogue: 0,0:28:59.20,0:29:05.38,的场航海 & 前田诚二,mae,0,0,0,,首先来介绍一下函馆的大学生乐队Argonavis
+Dialogue: 0,0:29:05.38,0:29:07.98,的场航海 & 前田诚二,mae,0,0,0,,以天生的主唱 莲 为中心
+Dialogue: 0,0:29:07.98,0:29:10.14,的场航海 & 前田诚二,mae,0,0,0,,热血行动派的领队结人
+Dialogue: 0,0:29:10.14,0:29:12.70,的场航海 & 前田诚二,mae,0,0,0,,慎重仔细的航海
+Dialogue: 0,0:29:12.70,0:29:15.04,的场航海 & 前田诚二,mae,0,0,0,,又酷又万能的凛生
+Dialogue: 0,0:29:15.04,0:29:16.76,的场航海 & 前田诚二,mae,0,0,0,,性格开朗做事靠谱的万浬
+Dialogue: 0,0:29:16.76,0:29:19.82,的场航海 & 前田诚二,mae,0,0,0,,五个人像家人一样互相支持的乐队
+Dialogue: 0,0:29:19.82,0:29:22.04,的场航海 & 前田诚二,mae,0,0,0,,然后角色的话...
+Dialogue: 0,0:29:22.04,0:29:26.14,七星莲 & 伊藤昌弘,masa,0,0,0,,好的！首先来介绍一下我饰演的七星莲
+Dialogue: 0,0:29:25.80,0:29:26.44,的场航海 & 前田诚二,mae,0,0,0,,好！
+Dialogue: 0,0:29:26.14,0:29:27.92,七星莲 & 伊藤昌弘,masa,0,0,0,,他是法学系的大一学生
+Dialogue: 0,0:29:27.92,0:29:31.32,七星莲 & 伊藤昌弘,masa,0,0,0,,因难以忘记小时候看露天live演出时的兴奋心情
+Dialogue: 0,0:29:31.32,0:29:35.16,七星莲 & 伊藤昌弘,masa,0,0,0,,梦想着有一天能登上大舞台 而开始了唱歌
+Dialogue: 0,0:29:35.16,0:29:40.14,七星莲 & 伊藤昌弘,masa,0,0,0,,升上大学后 因实力而被正在找主唱的结人发现
+Dialogue: 0,0:29:40.14,0:29:41.70,七星莲 & 伊藤昌弘,masa,0,0,0,,就此加入了Argonavis
+Dialogue: 0,0:29:41.70,0:29:46.94,七星莲 & 伊藤昌弘,masa,0,0,0,,平常很安静老实 但为了音乐可以无限热血 的角色
+Dialogue: 0,0:29:46.94,0:29:50.20,的场航海 & 前田诚二,mae,0,0,0,,原来如此
+Dialogue: 0,0:29:50.20,0:29:54.46,的场航海 & 前田诚二,mae,0,0,0,,抽到了莲的人...是谁？
+Dialogue: 0,0:29:54.46,0:29:55.00,美园礼音 & 真野拓实,mano,0,0,0,,我！
+Dialogue: 0,0:29:55.00,0:29:58.40,众,大家,0,0,0,,哦哦哦
+Dialogue: 0,0:29:58.40,0:29:59.56,美园礼音 & 真野拓实,mano,0,0,0,,耶
+Dialogue: 0,0:29:59.56,0:30:02.48,的场航海 & 前田诚二,mae,0,0,0,,限时15秒
+Dialogue: 0,0:30:01.38,0:30:03.24,美园礼音 & 真野拓实,mano,0,0,0,,15秒啊
+Dialogue: 0,0:30:02.48,0:30:04.06,的场航海 & 前田诚二,mae,0,0,0,,准备好了吗？
+Dialogue: 0,0:30:04.06,0:30:04.86,美园礼音 & 真野拓实,mano,0,0,0,,没问题了！
+Dialogue: 0,0:30:04.86,0:30:08.16,的场航海 & 前田诚二,mae,0,0,0,,好的 那就赶快开始吧
+Dialogue: 0,0:30:08.16,0:30:09.98,的场航海 & 前田诚二,mae,0,0,0,,准备——开始！
+Dialogue: 0,0:30:09.98,0:30:13.88,美园礼音 & 真野拓实,mano,0,0,0,,(莲)真的是褒义上的只想着唱歌的笨蛋
+Dialogue: 0,0:30:13.88,0:30:17.26,美园礼音 & 真野拓实,mano,0,0,0,,明明是北海道出身却讨厌吃寿司
+Dialogue: 0,0:30:17.26,0:30:19.94,美园礼音 & 真野拓实,mano,0,0,0,,中之人是伊藤昌弘
+Dialogue: 0,0:30:19.94,0:30:21.86,美园礼音 & 真野拓实,mano,0,0,0,,中之人特喜欢肌肉
+Dialogue: 0,0:30:21.86,0:30:23.86,美园礼音 & 真野拓实,mano,0,0,0,,很可爱 还天然
+Dialogue: 0,0:30:22.84,0:30:24.50,七星莲 & 伊藤昌弘,masa,0,0,0,,“特喜欢肌肉” 你这说得引起误会啊
+Dialogue: 0,0:30:23.86,0:30:25.86,美园礼音 & 真野拓实,mano,0,0,0,,真是个好角色
+Dialogue: 0,0:30:27.78,0:30:30.68,的场航海 & 前田诚二,mae,0,0,0,,时间到~
+Dialogue: 0,0:30:31.52,0:30:34.34,的场航海 & 前田诚二,mae,0,0,0,,介绍得不错啊
+Dialogue: 0,0:30:34.34,0:30:35.96,美园礼音 & 真野拓实,mano,0,0,0,,是个有魅力的角色
+Dialogue: 0,0:30:35.96,0:30:38.00,七星莲 & 伊藤昌弘,masa,0,0,0,,莲的部分是介绍得都到点上了
+Dialogue: 0,0:30:38.00,0:30:42.52,七星莲 & 伊藤昌弘,masa,0,0,0,,“特喜欢肌肉” 这话就有歧义了
+Dialogue: 0,0:30:42.52,0:30:46.82,七星莲 & 伊藤昌弘,masa,0,0,0,,“喜欢肌肉”既可以说是喜欢别人的肌肉
+Dialogue: 0,0:30:46.82,0:30:51.22,七星莲 & 伊藤昌弘,masa,0,0,0,,也可以理解成喜欢自己通过锻炼来达到匀称的体型
+Dialogue: 0,0:30:49.70,0:30:50.92,众,？,0,0,0,,又开始了？
+Dialogue: 0,0:30:50.92,0:30:52.62,的场航海 & 前田诚二,mae,0,0,0,,长篇大论的预感
+Dialogue: 0,0:30:52.18,0:30:53.70,五棱结人 & 日向大辅,hyu,0,0,0,,下一个下一个
+Dialogue: 0,0:30:53.70,0:30:56.96,的场航海 & 前田诚二,mae,0,0,0,,好！接下来请听结人的介绍
+Dialogue: 0,0:30:56.96,0:31:01.38,五棱结人 & 日向大辅,hyu,0,0,0,,是我 那来介绍一下结人
+Dialogue: 0,0:31:01.38,0:31:05.96,五棱结人 & 日向大辅,hyu,0,0,0,,我饰演的五稜结人 是文学系的大一学生
+Dialogue: 0,0:31:05.96,0:31:10.54,五棱结人 & 日向大辅,hyu,0,0,0,,出生在函馆的名门 但虽优秀的兄长们抱有自卑的情感
+Dialogue: 0,0:31:10.54,0:31:12.70,五棱结人 & 日向大辅,hyu,0,0,0,,一心专注于音乐活动
+Dialogue: 0,0:31:12.70,0:31:15.64,五棱结人 & 日向大辅,hyu,0,0,0,,心智坚强而且非常乐观
+Dialogue: 0,0:31:15.64,0:31:20.72,五棱结人 & 日向大辅,hyu,0,0,0,,坚信有一天乐队会成功 让家人刮目相看
+Dialogue: 0,0:31:20.72,0:31:22.88,五棱结人 & 日向大辅,hyu,0,0,0,,他的信条是“不尝试怎么会知道不行”
+Dialogue: 0,0:31:22.88,0:31:30.24,五棱结人 & 日向大辅,hyu,0,0,0,,这样没根据的自信让他成为牵引Argonavis的强力领队
+Dialogue: 0,0:31:30.24,0:31:36.30,五棱结人 & 日向大辅,hyu,0,0,0,,从我来看的话 结人是个非常重视‘邂逅’的人
+Dialogue: 0,0:31:36.30,0:31:41.60,五棱结人 & 日向大辅,hyu,0,0,0,,Argonavis的故事正是从邂逅开始的
+Dialogue: 0,0:31:41.60,0:31:46.88,五棱结人 & 日向大辅,hyu,0,0,0,,我暗自觉得他们之间的关系描写得很现实
+Dialogue: 0,0:31:46.88,0:31:54.34,的场航海 & 前田诚二,mae,0,0,0,,这样啊 那么抽到结人 阿结 的人是哪位？
+Dialogue: 0,0:31:54.34,0:31:55.20,七星莲 & 伊藤昌弘,masa,0,0,0,,这里！
+Dialogue: 0,0:31:55.20,0:31:57.30,众,大家,0,0,0,,哦哦
+Dialogue: 0,0:31:57.30,0:31:58.62,五棱结人 & 日向大辅,hyu,0,0,0,,你没问题吧
+Dialogue: 0,0:31:58.62,0:31:59.58,七星莲 & 伊藤昌弘,masa,0,0,0,,交给我吧
+Dialogue: 0,0:31:59.58,0:32:01.92,的场航海 & 前田诚二,mae,0,0,0,,masa准备好了吗？要开始啦
+Dialogue: 0,0:32:01.92,0:32:04.22,的场航海 & 前田诚二,mae,0,0,0,,预备——开始！
+Dialogue: 0,0:32:04.22,0:32:08.48,七星莲 & 伊藤昌弘,masa,0,0,0,,结人是Argonavis乐队的领队
+Dialogue: 0,0:32:08.48,0:32:14.64,七星莲 & 伊藤昌弘,masa,0,0,0,,他觉得乐队就是家人 非常有人情味
+Dialogue: 0,0:32:14.64,0:32:16.64,七星莲 & 伊藤昌弘,masa,0,0,0,,特别看重自己的伙伴们
+Dialogue: 0,0:32:16.64,0:32:19.62,七星莲 & 伊藤昌弘,masa,0,0,0,,这一点非常有魅力
+Dialogue: 0,0:32:19.62,0:32:20.82,七星莲 & 伊藤昌弘,masa,0,0,0,,说到音乐呢
+Dialogue: 0,0:32:22.68,0:32:24.88,的场航海 & 前田诚二,mae,0,0,0,,时间到~！
+Dialogue: 0,0:32:24.88,0:32:26.66,众,？,0,0,0,,你表情太好笑了
+Dialogue: 0,0:32:26.66,0:32:28.66,的场航海 & 前田诚二,mae,0,0,0,,后半部分在提示框里 *这句不确定 需要校对
+Dialogue: 0,0:32:32.16,0:32:38.62,的场航海 & 前田诚二,mae,0,0,0,,谢谢展示 那我们继续吧
+Dialogue: 0,0:32:38.62,0:32:40.74,的场航海 & 前田诚二,mae,0,0,0,,下一个是我
+Dialogue: 0,0:32:40.74,0:32:45.04,的场航海 & 前田诚二,mae,0,0,0,,我饰演的的场航海 是文学系的大一学生
+Dialogue: 0,0:32:45.04,0:32:48.94,的场航海 & 前田诚二,mae,0,0,0,,因为哥哥在乐队里而对乐队产生兴趣 开始弹贝斯
+Dialogue: 0,0:32:48.94,0:32:52.88,的场航海 & 前田诚二,mae,0,0,0,,负责Argonavis的作词 给乐队命名的也是他
+Dialogue: 0,0:32:52.88,0:32:58.82,的场航海 & 前田诚二,mae,0,0,0,,性格谨慎 每当结人发表乐观的看法时 他会提出担忧的想法
+Dialogue: 0,0:32:58.82,0:33:01.84,的场航海 & 前田诚二,mae,0,0,0,,但那也是因为他一心想要乐队成功
+Dialogue: 0,0:33:01.84,0:33:05.16,的场航海 & 前田诚二,mae,0,0,0,,有结人和航海的平衡 才有现在的Argonavis
+Dialogue: 0,0:33:05.16,0:33:11.14,的场航海 & 前田诚二,mae,0,0,0,,可以说是能及时给结人刹车的角色
+Dialogue: 0,0:33:11.14,0:33:13.74,的场航海 & 前田诚二,mae,0,0,0,,抽到航海的人是？
+Dialogue: 0,0:33:14.84,0:33:15.44,的场航海 & 前田诚二,mae,0,0,0,,我
+Dialogue: 0,0:33:15.44,0:33:19.90,众,大家,0,0,0,,咦？？真的假的？好厉害！这都能抽到
+Dialogue: 0,0:33:19.90,0:33:22.00,的场航海 & 前田诚二,mae,0,0,0,,抽到了
+Dialogue: 0,0:33:22.00,0:33:23.16,众,？,0,0,0,,还有这种事？
+Dialogue: 0,0:33:23.16,0:33:24.74,的场航海 & 前田诚二,mae,0,0,0,,会有这种事的
+Dialogue: 0,0:33:24.74,0:33:27.10,的场航海 & 前田诚二,mae,0,0,0,,我边抽就边发觉到 嗯？说不好会...
+Dialogue: 0,0:33:27.10,0:33:28.78,的场航海 & 前田诚二,mae,0,0,0,,一看果然 抽到了
+Dialogue: 0,0:33:28.78,0:33:29.94,五棱结人 & 日向大辅,hyu,0,0,0,,好厉害
+Dialogue: 0,0:33:29.94,0:33:33.46,的场航海 & 前田诚二,mae,0,0,0,,于是呢就由我来介绍了
+Dialogue: 0,0:33:33.46,0:33:35.82,的场航海 & 前田诚二,mae,0,0,0,,计时开始！
+Dialogue: 0,0:33:39.16,0:33:40.34,的场航海 & 前田诚二,mae,0,0,0,,航海他喜欢甜食 辣的东西吃不来
+Dialogue: 0,0:33:40.34,0:33:42.52,的场航海 & 前田诚二,mae,0,0,0,,是个超 甜食派男子
+Dialogue: 0,0:33:42.52,0:33:45.92,的场航海 & 前田诚二,mae,0,0,0,,正好我也吃不了辣 也喜欢吃甜食
+Dialogue: 0,0:33:45.92,0:33:48.62,的场航海 & 前田诚二,mae,0,0,0,,那我就和航海一起坚持吃零食到底
+Dialogue: 0,0:33:48.62,0:33:50.62,的场航海 & 前田诚二,mae,0,0,0,,然后 说到人际关系
+Dialogue: 0,0:33:50.62,0:33:54.16,的场航海 & 前田诚二,mae,0,0,0,,对成员每一个人的态度
+Dialogue: 0,0:33:54.16,0:33:56.56,的场航海 & 前田诚二,mae,0,0,0,,希望大家能仔细关注一下
+Dialogue: 0,0:33:57.74,0:34:00.60,五棱结人 & 日向大辅,hyu,0,0,0,,咦 是自我介绍？
+Dialogue: 0,0:34:00.60,0:34:04.14,的场航海 & 前田诚二,mae,0,0,0,,自己介绍自己的他人介绍环节
+Dialogue: 0,0:34:04.14,0:34:08.50,的场航海 & 前田诚二,mae,0,0,0,,什么事情都有可能发生
+Dialogue: 0,0:34:08.50,0:34:10.96,的场航海 & 前田诚二,mae,0,0,0,,那么接下来
+Dialogue: 0,0:34:10.96,0:34:14.96,桔梗凛生 & 森岛秀太,mrs,0,0,0,,好的！我饰演的桔梗凛生呢
+Dialogue: 0,0:34:14.96,0:34:17.28,桔梗凛生 & 森岛秀太,mrs,0,0,0,,是政治经济学系的大一学生
+Dialogue: 0,0:34:17.28,0:34:19.98,桔梗凛生 & 森岛秀太,mrs,0,0,0,,从儿时起 不论是学习 运动 还是音乐
+Dialogue: 0,0:34:19.98,0:34:24.16,桔梗凛生 & 森岛秀太,mrs,0,0,0,,不论做什么都是万能 身边的人都称他为神通
+Dialogue: 0,0:34:24.16,0:34:28.04,桔梗凛生 & 森岛秀太,mrs,0,0,0,,特别是棒球 本来是被寄予厚望的选手
+Dialogue: 0,0:34:28.04,0:34:31.84,桔梗凛生 & 森岛秀太,mrs,0,0,0,,出征甲子园前因伤退场 断了棒球选手之路
+Dialogue: 0,0:34:31.84,0:34:35.06,桔梗凛生 & 森岛秀太,mrs,0,0,0,,不会彰显自己的情绪 有点难以靠近的感觉
+Dialogue: 0,0:34:35.06,0:34:39.10,桔梗凛生 & 森岛秀太,mrs,0,0,0,,却很快答应了结人的入队请求
+Dialogue: 0,0:34:39.10,0:34:42.70,桔梗凛生 & 森岛秀太,mrs,0,0,0,,在Argonavis里他饭量最大
+Dialogue: 0,0:34:42.70,0:34:44.72,桔梗凛生 & 森岛秀太,mrs,0,0,0,,就是这样的角色
+Dialogue: 0,0:34:44.72,0:34:49.68,桔梗凛生 & 森岛秀太,mrs,0,0,0,,是啊 凛生真的很能吃啊
+Dialogue: 0,0:34:51.40,0:34:53.00,桔梗凛生 & 森岛秀太,mrs,0,0,0,,而且还挺瘦
+Dialogue: 0,0:34:53.00,0:34:55.00,桔梗凛生 & 森岛秀太,mrs,0,0,0,,都是肌肉啊！
+Dialogue: 0,0:34:55.00,0:34:57.86,桔梗凛生 & 森岛秀太,mrs,0,0,0,,日常消费的卡路里很多
+Dialogue: 0,0:34:57.86,0:34:59.60,的场航海 & 前田诚二,mae,0,0,0,,是搞体育的
+Dialogue: 0,0:34:59.60,0:35:03.82,桔梗凛生 & 森岛秀太,mrs,0,0,0,,对 原来打棒球的 毕竟是目标甲子园的级别
+Dialogue: 0,0:35:03.82,0:35:04.92,的场航海 & 前田诚二,mae,0,0,0,,原来如此 原来如此
+Dialogue: 0,0:35:04.92,0:35:08.82,五棱结人 & 日向大辅,hyu,0,0,0,,之前官方推特上不是发过吗？小漫画
+Dialogue: 0,0:35:08.82,0:35:11.66,五棱结人 & 日向大辅,hyu,0,0,0,,一秒钟就把咖喱都吃了！
+Dialogue: 0,0:35:13.50,0:35:16.28,桔梗凛生 & 森岛秀太,mrs,0,0,0,,人家那是肚子饿了没办法啊
+Dialogue: 0,0:35:16.28,0:35:18.28,五棱结人 & 日向大辅,hyu,0,0,0,,真的好有趣
+Dialogue: 0,0:35:18.28,0:35:23.66,桔梗凛生 & 森岛秀太,mrs,0,0,0,,是吧？小漫画好有意思 期待更多四格漫画
+Dialogue: 0,0:35:23.66,0:35:25.66,的场航海 & 前田诚二,mae,0,0,0,,确实很有意思
+Dialogue: 0,0:35:25.66,0:35:30.08,的场航海 & 前田诚二,mae,0,0,0,,好 那么抽到了能吃的桔梗同学的人是？
+Dialogue: 0,0:35:30.92,0:35:32.22,旭那由多 & 小笠原仁,jin,0,0,0,,这里！
+Dialogue: 0,0:35:32.22,0:35:32.86,的场航海 & 前田诚二,mae,0,0,0,,仁君！
+Dialogue: 0,0:35:32.86,0:35:33.68,旭那由多 & 小笠原仁,jin,0,0,0,,谢谢了
+Dialogue: 0,0:35:34.88,0:35:36.56,的场航海 & 前田诚二,mae,0,0,0,,做好心理准备了吗？
+Dialogue: 0,0:35:36.56,0:35:38.78,旭那由多 & 小笠原仁,jin,0,0,0,,做好了
+Dialogue: 0,0:35:38.78,0:35:40.40,的场航海 & 前田诚二,mae,0,0,0,,那么就开始了哦
+Dialogue: 0,0:35:40.40,0:35:42.96,的场航海 & 前田诚二,mae,0,0,0,,预备——开始！
+Dialogue: 0,0:35:42.96,0:35:48.04,旭那由多 & 小笠原仁,jin,0,0,0,,这个桔梗凛生呢 真的是各种天赋齐聚的天才
+Dialogue: 0,0:35:48.04,0:35:50.64,旭那由多 & 小笠原仁,jin,0,0,0,,而我喜欢的地方正是
+Dialogue: 0,0:35:50.64,0:35:54.30,旭那由多 & 小笠原仁,jin,0,0,0,,明明这样多才多艺的人 在乐队里却是键盘手
+Dialogue: 0,0:35:54.30,0:35:57.58,旭那由多 & 小笠原仁,jin,0,0,0,,是在最后面 支持大家的位置
+Dialogue: 0,0:35:57.58,0:35:59.58,旭那由多 & 小笠原仁,jin,0,0,0,,我喜欢这样的反差
+Dialogue: 0,0:35:59.58,0:36:03.48,众,大家,0,0,0,,哦哦好厉害 说得真好
+Dialogue: 0,0:36:03.48,0:36:04.68,旭那由多 & 小笠原仁,jin,0,0,0,,就该这样
+Dialogue: 0,0:36:06.44,0:36:08.28,旭那由多 & 小笠原仁,jin,0,0,0,,就是这样
+Dialogue: 0,0:36:08.28,0:36:11.42,的场航海 & 前田诚二,mae,0,0,0,,都挑不出刺来
+Dialogue: 0,0:36:11.42,0:36:13.54,的场航海 & 前田诚二,mae,0,0,0,,谢谢了
+Dialogue: 0,0:36:13.54,0:36:15.54,旭那由多 & 小笠原仁,jin,0,0,0,,紧张死我了
+Dialogue: 0,0:36:15.54,0:36:17.90,的场航海 & 前田诚二,mae,0,0,0,,来来来下一个
+Dialogue: 0,0:36:17.90,0:36:19.90,白石万浬 & 桥本祥平,hey,0,0,0,,好的 是我！
+Dialogue: 0,0:36:19.90,0:36:23.98,白石万浬 & 桥本祥平,hey,0,0,0,,接下来是我饰演的白石万浬
+Dialogue: 0,0:36:23.98,0:36:26.02,白石万浬 & 桥本祥平,hey,0,0,0,,商学系的大一学生
+Dialogue: 0,0:36:26.02,0:36:29.84,白石万浬 & 桥本祥平,hey,0,0,0,,为了帮助家里重振负债重重经营困难的牧场
+Dialogue: 0,0:36:29.84,0:36:33.24,白石万浬 & 桥本祥平,hey,0,0,0,,想靠乐队成功大赚一笔
+Dialogue: 0,0:36:33.24,0:36:37.74,白石万浬 & 桥本祥平,hey,0,0,0,,体格虽小 演奏却令人惊讶地非常有力量
+Dialogue: 0,0:36:37.74,0:36:42.16,白石万浬 & 桥本祥平,hey,0,0,0,,是自己提出了想要加入Argonavis
+Dialogue: 0,0:36:42.16,0:36:45.32,白石万浬 & 桥本祥平,hey,0,0,0,,是彻头彻尾的现实主义者 不喜欢做无用功
+Dialogue: 0,0:36:45.32,0:36:48.76,白石万浬 & 桥本祥平,hey,0,0,0,,是兴致勃勃 能让气氛活跃起来的人
+Dialogue: 0,0:36:50.74,0:36:55.22,白石万浬 & 桥本祥平,hey,0,0,0,,嗯 为了重振家里经营困难的牧场
+Dialogue: 0,0:36:55.22,0:36:57.90,白石万浬 & 桥本祥平,hey,0,0,0,,真的是个会为家人着想的孩子
+Dialogue: 0,0:36:57.90,0:37:02.72,白石万浬 & 桥本祥平,hey,0,0,0,,有好多兄弟 当然为他们着想
+Dialogue: 0,0:37:02.72,0:37:07.58,白石万浬 & 桥本祥平,hey,0,0,0,,怎么说呢 掌控Argonavis钱包的人就是万浬了
+Dialogue: 0,0:37:07.58,0:37:10.36,白石万浬 & 桥本祥平,hey,0,0,0,,没有万浬的话会怎么样就不好说了
+Dialogue: 0,0:37:10.36,0:37:15.10,白石万浬 & 桥本祥平,hey,0,0,0,,某种意义上来说也是乐队的妈妈了
+Dialogue: 0,0:37:15.10,0:37:17.40,白石万浬 & 桥本祥平,hey,0,0,0,,还有就是 演奏很有力量
+Dialogue: 0,0:37:17.40,0:37:21.16,白石万浬 & 桥本祥平,hey,0,0,0,,到底是到什么程度呢？录音的时候
+Dialogue: 0,0:37:21.16,0:37:26.72,白石万浬 & 桥本祥平,hey,0,0,0,,我一看剧本 真的是相当有力量 大家期待一下
+Dialogue: 0,0:37:26.72,0:37:30.02,的场航海 & 前田诚二,mae,0,0,0,,听得让人更加期待动画了
+Dialogue: 0,0:37:30.02,0:37:33.38,的场航海 & 前田诚二,mae,0,0,0,,那么 抽到万浬的人是？
+Dialogue: 0,0:37:33.38,0:37:34.00,桔梗凛生 & 森岛秀太,mrs,0,0,0,,我！
+Dialogue: 0,0:37:34.00,0:37:35.66,众,大家,0,0,0,,哦哦
+Dialogue: 0,0:37:35.66,0:37:37.40,的场航海 & 前田诚二,mae,0,0,0,,是森岛！
+Dialogue: 0,0:37:37.40,0:37:38.52,桔梗凛生 & 森岛秀太,mrs,0,0,0,,万浬！
+Dialogue: 0,0:37:38.52,0:37:40.52,的场航海 & 前田诚二,mae,0,0,0,,15秒准备好了吗？
+Dialogue: 0,0:37:40.52,0:37:41.08,桔梗凛生 & 森岛秀太,mrs,0,0,0,,好了
+Dialogue: 0,0:37:41.08,0:37:42.18,的场航海 & 前田诚二,mae,0,0,0,,那就开始吧
+Dialogue: 0,0:37:42.18,0:37:44.46,的场航海 & 前田诚二,mae,0,0,0,,预备——开始！
+Dialogue: 0,0:37:44.46,0:37:49.38,桔梗凛生 & 森岛秀太,mrs,0,0,0,,万浬 他总是想着要振兴家里的牧场
+Dialogue: 0,0:37:49.38,0:37:51.50,桔梗凛生 & 森岛秀太,mrs,0,0,0,,如此的为家人着想
+Dialogue: 0,0:37:51.50,0:37:57.50,桔梗凛生 & 森岛秀太,mrs,0,0,0,,我觉得他是这个动画里的登场人物中最有人情味的一个
+Dialogue: 0,0:37:57.50,0:38:00.80,桔梗凛生 & 森岛秀太,mrs,0,0,0,,喜欢这样充满温情的他
+Dialogue: 0,0:38:01.36,0:38:07.14,众,大家,0,0,0,,哦哦哦 好厉害 不愧是
+Dialogue: 0,0:38:07.14,0:38:09.54,桔梗凛生 & 森岛秀太,mrs,0,0,0,,说完了！
+Dialogue: 0,0:38:09.54,0:38:11.54,众,?,0,0,0,,好有气势
+Dialogue: 0,0:38:11.54,0:38:14.28,的场航海 & 前田诚二,mae,0,0,0,,对万浬解释得太到位了
+Dialogue: 0,0:38:16.26,0:38:19.20,桔梗凛生 & 森岛秀太,mrs,0,0,0,,确实是觉得他最有人情味
+Dialogue: 0,0:38:19.20,0:38:22.48,的场航海 & 前田诚二,mae,0,0,0,,原来如此 原来如此 感谢发言
+Dialogue: 0,0:38:22.48,0:38:26.04,的场航海 & 前田诚二,mae,0,0,0,,那么就来下一位 是谁呢？
+Dialogue: 0,0:38:26.04,0:38:28.02,旭那由多 & 小笠原仁,jin,0,0,0,,是我
+Dialogue: 0,0:38:28.02,0:38:34.94,旭那由多 & 小笠原仁,jin,0,0,0,,我和真野所饰演的角色所属的实rl(咬)
+Dialogue: 0,0:38:34.94,0:38:38.02,众,大家,0,0,0,,哈哈哈哈哈 可爱 紧张了吗
+Dialogue: 0,0:38:38.02,0:38:41.74,旭那由多 & 小笠原仁,jin,0,0,0,,可爱吗 放过我吧
+Dialogue: 0,0:38:41.74,0:38:44.48,美园礼音 & 真野拓实,mano,0,0,0,,说错了可饶不了你
+Dialogue: 0,0:38:44.48,0:38:51.12,旭那由多 & 小笠原仁,jin,0,0,0,,不好意思 ——接下来介绍实力主义的绝对王者 GYROAXIA
+Dialogue: 0,0:38:51.12,0:38:54.40,旭那由多 & 小笠原仁,jin,0,0,0,,GYROAXIA这个乐队 是围绕着孤高的主唱
+Dialogue: 0,0:38:54.40,0:38:58.94,旭那由多 & 小笠原仁,jin,0,0,0,,旭那由多组建的 实力主义的乐队
+Dialogue: 0,0:38:58.94,0:39:01.28,旭那由多 & 小笠原仁,jin,0,0,0,,君临与不可动摇的顶点的那由多 支持着他的有
+Dialogue: 0,0:39:01.28,0:39:03.28,旭那由多 & 小笠原仁,jin,0,0,0,,沉着冷静的领队贤汰
+Dialogue: 0,0:39:03.28,0:39:04.92,旭那由多 & 小笠原仁,jin,0,0,0,,顽固且认真的礼音
+Dialogue: 0,0:39:04.92,0:39:07.62,旭那由多 & 小笠原仁,jin,0,0,0,,自称来自宇宙的男人 涼
+Dialogue: 0,0:39:07.62,0:39:10.04,旭那由多 & 小笠原仁,jin,0,0,0,,禁欲色男子 深幸
+Dialogue: 0,0:39:10.04,0:39:12.28,旭那由多 & 小笠原仁,jin,0,0,0,,就是一支这样的乐队
+Dialogue: 0,0:39:12.28,0:39:17.46,旭那由多 & 小笠原仁,jin,0,0,0,,然后说到角色 首先来介绍我饰演的旭那由多
+Dialogue: 0,0:39:17.46,0:39:18.38,旭那由多 & 小笠原仁,jin,0,0,0,,他好帅啊对吧
+Dialogue: 0,0:39:18.38,0:39:21.02,旭那由多 & 小笠原仁,jin,0,0,0,,法学系的大一学生
+Dialogue: 0,0:39:21.02,0:39:25.36,旭那由多 & 小笠原仁,jin,0,0,0,,以压倒性的因压倒性的歌唱力和领袖魅力支配着GYROAXIA
+Dialogue: 0,0:39:25.36,0:39:29.32,旭那由多 & 小笠原仁,jin,0,0,0,,作词作曲都由他一人担当 他就是乐队的一切
+Dialogue: 0,0:39:29.32,0:39:32.50,旭那由多 & 小笠原仁,jin,0,0,0,,对乐团成员不要求能力外的东西
+Dialogue: 0,0:39:32.50,0:39:35.76,旭那由多 & 小笠原仁,jin,0,0,0,,若没达到要求等级的话 会毫不客气地舍弃
+Dialogue: 0,0:39:35.76,0:39:39.18,旭那由多 & 小笠原仁,jin,0,0,0,,不管是自己还是其他成员 他都不允许有任何妥协
+Dialogue: 0,0:39:39.18,0:39:42.50,旭那由多 & 小笠原仁,jin,0,0,0,,因此而产生的冲突也时有发生
+Dialogue: 0,0:39:42.50,0:39:44.86,旭那由多 & 小笠原仁,jin,0,0,0,,就是这样的角色
+Dialogue: 0,0:39:44.86,0:39:47.02,众,大家,0,0,0,,原来如此
+Dialogue: 0,0:39:47.02,0:39:49.32,旭那由多 & 小笠原仁,jin,0,0,0,,最开始这里说的这个
+Dialogue: 0,0:39:49.32,0:39:54.46,旭那由多 & 小笠原仁,jin,0,0,0,,“能代替你的人要多少有多少 别误会了”的台词真的是太冲击了
+Dialogue: 0,0:39:54.46,0:39:58.16,旭那由多 & 小笠原仁,jin,0,0,0,,节目之前我也和真野说起来
+Dialogue: 0,0:39:58.16,0:40:03.22,旭那由多 & 小笠原仁,jin,0,0,0,,“嗯...这个乐队日常到底是怎样的啊？”
+Dialogue: 0,0:40:03.22,0:40:05.56,桔梗凛生 & 森岛秀太,mrs,0,0,0,,就算是公司里也不会这么说话
+Dialogue: 0,0:40:05.56,0:40:07.76,旭那由多 & 小笠原仁,jin,0,0,0,,就是因为不是公司啊
+Dialogue: 0,0:40:07.76,0:40:08.74,旭那由多 & 小笠原仁,jin,0,0,0,,要是这是上司的话
+Dialogue: 0,0:40:08.74,0:40:10.30,桔梗凛生 & 森岛秀太,mrs,0,0,0,,我要辞职
+Dialogue: 0,0:40:11.52,0:40:20.86,旭那由多 & 小笠原仁,jin,0,0,0,,但反过来想 这样还能让人跟随的话 是相当有领袖魅力和音乐才能
+Dialogue: 0,0:40:20.86,0:40:26.04,旭那由多 & 小笠原仁,jin,0,0,0,,所以怎么说的 有点这种 不自然的领导力
+Dialogue: 0,0:40:26.04,0:40:31.28,旭那由多 & 小笠原仁,jin,0,0,0,,是给人有种很不平衡的反差感的角色
+Dialogue: 0,0:40:31.28,0:40:33.30,桔梗凛生 & 森岛秀太,mrs,0,0,0,,也有可爱的一面
+Dialogue: 0,0:40:33.30,0:40:34.18,旭那由多 & 小笠原仁,jin,0,0,0,,是啊
+Dialogue: 0,0:40:34.18,0:40:35.16,桔梗凛生 & 森岛秀太,mrs,0,0,0,,这里写着讨厌虫子
+Dialogue: 0,0:40:35.16,0:40:36.28,旭那由多 & 小笠原仁,jin,0,0,0,,是啊 讨厌虫子
+Dialogue: 0,0:40:36.28,0:40:38.56,桔梗凛生 & 森岛秀太,mrs,0,0,0,,也有这样让人放不下的一面
+Dialogue: 0,0:40:38.56,0:40:40.08,旭那由多 & 小笠原仁,jin,0,0,0,,就是偶尔会出一点这样的设定
+Dialogue: 0,0:40:40.08,0:40:41.56,桔梗凛生 & 森岛秀太,mrs,0,0,0,,藏都藏不住
+Dialogue: 0,0:40:41.56,0:40:43.74,旭那由多 & 小笠原仁,jin,0,0,0,,来慢慢地展示角色的魅力（给校对：我听的是徐々にアピールする不是很确定 请double check一下）
+Dialogue: 0,0:40:44.54,0:40:45.12,美园礼音 & 真野拓实,mano,0,0,0,,真的吗？
+Dialogue: 0,0:40:46.48,0:40:53.16,的场航海 & 前田诚二,mae,0,0,0,,好期待啊 那么抽到仁的角色 那由多 的人是？
+Dialogue: 0,0:40:53.16,0:40:56.10,五棱结人 & 日向大辅,hyu,0,0,0,,是我
+Dialogue: 0,0:40:56.10,0:40:57.60,的场航海 & 前田诚二,mae,0,0,0,,是hyuusuke！
+Dialogue: 0,0:40:57.60,0:41:01.26,的场航海 & 前田诚二,mae,0,0,0,,那就看你了 准备好了吗？
+Dialogue: 0,0:41:01.26,0:41:03.14,五棱结人 & 日向大辅,hyu,0,0,0,,好了
+Dialogue: 0,0:41:03.14,0:41:06.34,的场航海 & 前田诚二,mae,0,0,0,,那就 预备——开始！
+Dialogue: 0,0:41:06.34,0:41:12.30,五棱结人 & 日向大辅,hyu,0,0,0,,说到领袖魅力 要是周围的人不认可的话是根本谈不上的
+Dialogue: 0,0:41:12.30,0:41:14.98,五棱结人 & 日向大辅,hyu,0,0,0,,能让别人感受这种领导力的那由酱
+Dialogue: 0,0:41:14.98,0:41:20.46,五棱结人 & 日向大辅,hyu,0,0,0,,想必平时就是作风很严肃 作词作曲都有他包揽
+Dialogue: 0,0:41:20.46,0:41:27.88,五棱结人 & 日向大辅,hyu,0,0,0,,还有就是 Argonavis里森岛模最爱模仿的角色
+Dialogue: 0,0:41:27.88,0:41:31.50,五棱结人 & 日向大辅,hyu,0,0,0,,森岛最喜欢模仿他了
+Dialogue: 0,0:41:29.06,0:41:31.32,旭那由多 & 小笠原仁,jin,0,0,0,,我怎么没听说过
+Dialogue: 0,0:41:31.50,0:41:32.60,众,?,0,0,0,,到哪他都要模仿一下
+Dialogue: 0,0:41:32.60,0:41:34.60,旭那由多 & 小笠原仁,jin,0,0,0,,不要模仿Manifesto啊
+Dialogue: 0,0:41:35.84,0:41:37.08,桔梗凛生 & 森岛秀太,mrs,0,0,0,,不是Manifesto
+Dialogue: 0,0:41:37.08,0:41:37.70,旭那由多 & 小笠原仁,jin,0,0,0,,那是什么？
+Dialogue: 0,0:41:37.70,0:41:40.92,桔梗凛生 & 森岛秀太,mrs,0,0,0,,是他不爽地说“啊——”的样子
+Dialogue: 0,0:41:40.92,0:41:42.92,旭那由多 & 小笠原仁,jin,0,0,0,,狡辩 是狡辩对吧
+Dialogue: 0,0:41:42.92,0:41:44.14,桔梗凛生 & 森岛秀太,mrs,0,0,0,,（给校对：这里说了什么？）
+Dialogue: 0,0:41:46.02,0:41:53.28,旭那由多 & 小笠原仁,jin,0,0,0,,我要对Argonavis全员说一句 不要模仿旭那由多玩
+Dialogue: 0,0:41:53.28,0:41:56.32,的场航海 & 前田诚二,mae,0,0,0,,但是GYROAXIA的宫内告典之前也模仿了哦
+Dialogue: 0,0:41:56.32,0:42:02.38,旭那由多 & 小笠原仁,jin,0,0,0,,是你哦 听了吗就是你 宫内 就是你第一个带头的
+Dialogue: 0,0:42:02.38,0:42:05.76,旭那由多 & 小笠原仁,jin,0,0,0,,你这样不行 别人都跟着你了
+Dialogue: 0,0:42:05.76,0:42:10.16,的场航海 & 前田诚二,mae,0,0,0,,好了好了 谢谢了 我们继续
+Dialogue: 0,0:42:10.16,0:42:12.04,的场航海 & 前田诚二,mae,0,0,0,,真野 该你了
+Dialogue: 0,0:42:12.04,0:42:18.72,美园礼音 & 真野拓实,mano,0,0,0,,好的 我饰演的美园礼音是文学院哲学系的大一学生
+Dialogue: 0,0:42:18.72,0:42:20.72,美园礼音 & 真野拓实,mano,0,0,0,,忍耐力非常强 也很顽固
+Dialogue: 0,0:42:20.72,0:42:23.98,美园礼音 & 真野拓实,mano,0,0,0,,虽然强烈反对那由多独裁者式的做法
+Dialogue: 0,0:42:23.98,0:42:29.66,美园礼音 & 真野拓实,mano,0,0,0,,但还是认同他的才能 相信他可以带领GYROAXIA到达顶点
+Dialogue: 0,0:42:29.66,0:42:34.22,美园礼音 & 真野拓实,mano,0,0,0,,讨厌认输 是乐团中唯一会对那由多露出敌意的成员
+Dialogue: 0,0:42:34.22,0:42:40.30,美园礼音 & 真野拓实,mano,0,0,0,,但无法胜过不讲道理的那由多 结果总是会变成礼音被逼忍耐的局面
+Dialogue: 0,0:42:40.30,0:42:42.30,美园礼音 & 真野拓实,mano,0,0,0,,就是这样的角色了
+Dialogue: 0,0:42:42.30,0:42:46.64,美园礼音 & 真野拓实,mano,0,0,0,,怎么说呢 他基本说得都没错的
+Dialogue: 0,0:42:46.64,0:42:53.22,美园礼音 & 真野拓实,mano,0,0,0,,美园礼音说“你怎么能这样”的时候出发点都很正当
+Dialogue: 0,0:42:53.22,0:42:56.72,美园礼音 & 真野拓实,mano,0,0,0,,但是一旦被说 “你就照着我说的做！”
+Dialogue: 0,0:42:58.18,0:43:00.28,美园礼音 & 真野拓实,mano,0,0,0,,就这样 “.... ... (忍耐) 唉——！”
+Dialogue: 0,0:42:59.28,0:43:00.74,的场航海 & 前田诚二,mae,0,0,0,,就默默照做了
+Dialogue: 0,0:43:00.28,0:43:01.64,美园礼音 & 真野拓实,mano,0,0,0,,是啊
+Dialogue: 0,0:43:01.64,0:43:03.26,美园礼音 & 真野拓实,mano,0,0,0,,每次都是重复这个模式
+Dialogue: 0,0:43:04.02,0:43:10.26,美园礼音 & 真野拓实,mano,0,0,0,,但这啊 怎么说呢 这样的礼音也有可爱的地方
+Dialogue: 0,0:43:10.26,0:43:13.80,美园礼音 & 真野拓实,mano,0,0,0,,演出结束之后他会有些洋洋得意
+Dialogue: 0,0:43:13.80,0:43:17.04,旭那由多 & 小笠原仁,jin,0,0,0,,是啊是啊
+Dialogue: 0,0:43:17.04,0:43:21.36,美园礼音 & 真野拓实,mano,0,0,0,,稍微有些得意 然后又马上被那由多“咚——”地按下去
+Dialogue: 0,0:43:21.36,0:43:22.24,美园礼音 & 真野拓实,mano,0,0,0,,就不说话了
+Dialogue: 0,0:43:23.52,0:43:26.38,美园礼音 & 真野拓实,mano,0,0,0,,是个也有这样一面的角色
+Dialogue: 0,0:43:26.38,0:43:28.22,的场航海 & 前田诚二,mae,0,0,0,,谢谢介绍
+Dialogue: 0,0:43:28.22,0:43:32.60,的场航海 & 前田诚二,mae,0,0,0,,那么抽到礼音的人是？
+Dialogue: 0,0:43:32.60,0:43:36.28,白石万浬 & 桥本祥平,hey,0,0,0,,就是我了
+Dialogue: 0,0:43:36.28,0:43:39.06,的场航海 & 前田诚二,mae,0,0,0,,那么heyhey 就看你的了
+Dialogue: 0,0:43:39.06,0:43:41.44,的场航海 & 前田诚二,mae,0,0,0,,预备——开始！
+Dialogue: 0,0:43:41.44,0:43:46.94,白石万浬 & 桥本祥平,hey,0,0,0,,就包在我身上了！我会好好地超详细地介绍礼音的
+Dialogue: 0,0:43:46.94,0:43:49.88,白石万浬 & 桥本祥平,hey,0,0,0,,请多多指教了！大家！就看我的了！
+Dialogue: 0,0:43:49.88,0:43:54.76,白石万浬 & 桥本祥平,hey,0,0,0,,这个吧 说到礼音呢 就有这一点真的不得不提
+Dialogue: 0,0:43:54.76,0:43:55.92,白石万浬 & 桥本祥平,hey,0,0,0,,颜值高！
+Dialogue: 0,0:43:55.92,0:43:58.52,众,大家,0,0,0,,哈哈哈哈 等一下啊等一下
 Dialogue: 0,0:43:58.52,0:44:00.52,Default,,0,0,0,,礼音结束
