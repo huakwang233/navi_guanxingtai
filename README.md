@@ -1,14 +1,6 @@
 # Navi观星台的repo
 存放Navi观星台汉化组的翻译和校对内容
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
-**This is bold text**
-1. First list item
-   - First nested list item
-     - Second nested list item
-
 ##翻译规范
 - 翻译建议使用txt文档，每行在30字以内，不需要打逗号
 - 听不出来的部分标上xxx，方便校对
