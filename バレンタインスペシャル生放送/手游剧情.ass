@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: ../../../../Desktop/NAVI观星站/バレンタインスペシャル生放送/アルゴナビス from BanG Dream! AAsideバレンタインスペシャル生放送.mp4
-Video File: ../../../../Desktop/NAVI观星站/バレンタインスペシャル生放送/アルゴナビス from BanG Dream! AAsideバレンタインスペシャル生放送.mp4
+Audio File: ../../../QQ files/3402649253/FileRecv/アルゴナビス from BanG Dream! AAsideバレンタインスペシャル生放送.mp4
+Video File: ../../../QQ files/3402649253/FileRecv/アルゴナビス from BanG Dream! AAsideバレンタインスペシャル生放送.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 45
-Active Line: 48
-Video Position: 98673
+Video Zoom Percent: 0.500000
+Scroll Position: 18
+Active Line: 28
+Video Position: 95102
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,7 +69,7 @@ Dialogue: 0,0:52:45.26,0:52:50.05,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,�
 Dialogue: 0,0:52:50.05,0:52:53.86,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：光有气势 实际演奏能不能听就不好说了
 Dialogue: 0,0:52:53.86,0:52:56.56,二条奏 & 市川太一,奏,0,0,0,,奏：呜哇 好严格
 Dialogue: 0,0:52:56.56,0:53:04.35,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：名古屋的Fantôme Iris...大龄学绩发表会啊
-Dialogue: 0,0:53:04.35,0:53:10.10,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：世界观跟中学生妄想出来的一样看上去就麻烦
+Dialogue: 0,0:53:04.35,0:53:10.10,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：世界观跟中学生妄想出来的一样看上去就受不了
 Dialogue: 0,0:53:10.10,0:53:12.17,二条遥 & 梶原岳人,遥,0,0,0,,遥：轮得到你说
 Dialogue: 0,0:53:12.17,0:53:18.20,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：东京的GYROAXIA 实力差不多吧
 Dialogue: 0,0:53:18.20,0:53:24.65,宇治川紫夕 & 榊原优希,紫夕,0,0,0,,紫夕：主唱看上去挺讨人厌的 不过没提起多大感兴趣
