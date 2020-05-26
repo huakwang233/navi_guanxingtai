@@ -25,6 +25,11 @@
 		- へーへー：heyhey
 		- 那个名字很长的角色：菲利克斯·路易 = 克劳德·蒙德尔
 		- 待补充
+- 项目名
+	- 「BanG Dream!」
+	- 「ARGONAVIS from BanG Dream!」
+	- 「ARGONAVIS from BanG Dream! AAside」
+	- 「ARGONAVIS from BanG Dream! ANIMATION」
 
 
 ## 打轴规范
