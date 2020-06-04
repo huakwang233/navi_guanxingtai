@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: -ARGONAVIS_from_BanG_Dream_AAsideKing_of_the_World.mp4
-Video File: -ARGONAVIS_from_BanG_Dream_AAsideKing_of_the_World.mp4
+Audio File: ../../../QQ files/3402649253/FileRecv/-ARGONAVIS_from_BanG_Dream_AAsideKing_of_the_World.mp4
+Video File: ../../../QQ files/3402649253/FileRecv/-ARGONAVIS_from_BanG_Dream_AAsideKing_of_the_World.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 93
-Active Line: 94
-Video Position: 45975
+Video Zoom Percent: 0.500000
+Scroll Position: 60
+Active Line: 65
+Video Position: 43255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,9 +39,10 @@ Dialogue: 0,0:20:17.08,0:20:18.74,旭那由多 & 小笠原仁,jin,0,0,0,,我们�
 Dialogue: 0,0:20:20.30,0:20:24.70,旭那由多 & 小笠原仁,jin,0,0,0,,在BanG Dream! Argonavis 2nd LIVE「VOICE 星空下的约定」中
 Dialogue: 0,0:20:24.70,0:20:28.30,旭那由多 & 小笠原仁,jin,0,0,0,,我们作为惊喜嘉宾登场的那时候
 Dialogue: 0,0:20:28.30,0:20:32.18,旭那由多 & 小笠原仁,jin,0,0,0,,然后 大家一定也有很多想说的话
-Dialogue: 0,0:20:32.18,0:20:35.30,旭那由多 & 小笠原仁,jin,0,0,0,,这里呢 将要公开在这个首次披露的演唱会中
-Dialogue: 0,0:20:35.30,0:20:42.44,旭那由多 & 小笠原仁,jin,0,0,0,,总结了排练场景等各种未公开片段的特辑小视频
-Dialogue: 0,0:20:41.12,0:20:43.22,界川深幸 & 宫内告典,ksk,0,0,0,,要看吗 好羞耻
+Dialogue: 0,0:20:32.18,0:20:35.30,旭那由多 & 小笠原仁,jin,0,0,0,,在这里 将要公开在首次披露的演唱会中
+Dialogue: 0,0:20:35.30,0:20:42.44,旭那由多 & 小笠原仁,jin,0,0,0,,收集了排练场景等各种未公开片段的特辑小视频
+Dialogue: 0,0:20:41.12,0:20:42.12,美园礼音 & 真野拓实,,0,0,0,,能给看吗？
+Dialogue: 0,0:20:42.12,0:20:43.22,界川深幸 & 宫内告典,ksk,0,0,0,,好羞耻
 Dialogue: 0,0:20:43.22,0:20:45.62,旭那由多 & 小笠原仁,jin,0,0,0,,虽然只有不好的预感
 Dialogue: 0,0:20:45.62,0:20:46.16,界川深幸 & 宫内告典,ksk,0,0,0,,没关系吗
 Dialogue: 0,0:20:46.16,0:20:47.06,曙凉 & 秋谷启斗,akki,0,0,0,,真的假的
@@ -49,9 +50,9 @@ Dialogue: 0,0:20:46.40,0:20:47.32,里塚贤汰 & 桥本真一,shin,0,0,0,,好可
 Dialogue: 0,0:20:47.32,0:20:49.36,旭那由多 & 小笠原仁,jin,0,0,0,,这是初次公开的超珍贵的影像
 Dialogue: 0,0:20:49.36,0:20:51.42,旭那由多 & 小笠原仁,jin,0,0,0,,大家一定要好好看
 Dialogue: 0,0:20:51.42,0:20:55.16,旭那由多 & 小笠原仁,jin,0,0,0,,准备好了吗 那么请看
-Dialogue: 0,0:21:00.38,0:21:02.84,旭那由多 & 小笠原仁,jin,0,0,0,,超烦人的 这个XX（需校）
-Dialogue: 0,0:21:07.08,0:21:08.80,界川深幸 & 宫内告典,ksk,0,0,0,,不觉得有点可爱吗
-Dialogue: 0,0:21:07.82,0:21:09.46,旭那由多 & 小笠原仁,jin,0,0,0,,算了吧算了吧
+Dialogue: 0,0:21:00.38,0:21:02.84,旭那由多 & 小笠原仁,jin,0,0,0,,超烦人的 这个
+Dialogue: 0,0:21:07.08,0:21:08.80,界川深幸 & 宫内告典,ksk,0,0,0,,不觉得照出了可爱的感觉吗？
+Dialogue: 0,0:21:07.82,0:21:09.46,旭那由多 & 小笠原仁,jin,0,0,0,,可以可以
 Dialogue: 0,0:21:10.76,0:21:14.46,界川深幸 & 宫内告典,ksk,0,0,0,,好难受 超难受的 快点
 Dialogue: 0,0:21:15.96,0:21:18.92,界川深幸 & 宫内告典,ksk,0,0,0,,超难受 啊腿
 Dialogue: 0,0:21:41.68,0:21:43.28,旭那由多 & 小笠原仁,jin,0,0,0,,来吧！轮到谁登场了？
@@ -87,8 +88,8 @@ Dialogue: 0,0:23:31.90,0:23:32.60,曙凉 & 秋谷启斗,akki,0,0,0,,好
 Dialogue: 0,0:23:32.60,0:23:34.50,界川深幸 & 宫内告典,ksk,0,0,0,,不错啊 在看着呢
 Dialogue: 0,0:23:35.46,0:23:36.94,界川深幸 & 宫内告典,ksk,0,0,0,,“想去演唱会！”这样的
 Dialogue: 0,0:23:36.94,0:23:38.62,旭那由多 & 小笠原仁,jin,0,0,0,,桥本君
-Dialogue: 0,0:23:39.24,0:23:43.36,里塚贤汰 & 桥本真一,shin,0,0,0,,“GYRO战…啊不对 香菇战队GYROGER“有这样的评论
-Dialogue: 0,0:23:43.36,0:23:47.66,旭那由多 & 小笠原仁,jin,0,0,0,,“香菇战队GYROGER”不错呢 作为英雄 确实确实
+Dialogue: 0,0:23:39.24,0:23:43.36,里塚贤汰 & 桥本真一,shin,0,0,0,,“GYRO战…”啊不对 “香菇战队GYROGER”有这样的评论
+Dialogue: 0,0:23:43.36,0:23:47.66,旭那由多 & 小笠原仁,jin,0,0,0,,“香菇战队GYROGER”不错呢 队名的话 确实确实
 Dialogue: 0,0:23:43.36,0:23:45.24,界川深幸 & 宫内告典,ksk,0,0,0,,这是真一吧
 Dialogue: 0,0:23:47.66,0:23:53.86,旭那由多 & 小笠原仁,jin,0,0,0,,虽然想考虑的很多 笨蛋X3 这不对吧 怎么了akki
 Dialogue: 0,0:23:48.18,0:23:49.34,曙凉 & 秋谷启斗,akki,0,0,0,,这里（举手）
@@ -96,7 +97,7 @@ Dialogue: 0,0:23:53.86,0:23:56.02,曙凉 & 秋谷启斗,akki,0,0,0,,“圆阵太
 Dialogue: 0,0:23:56.02,0:23:59.98,旭那由多 & 小笠原仁,jin,0,0,0,,圆阵很帅吗那个？真的？
 Dialogue: 0,0:23:57.92,0:23:59.30,美园礼音 & 真野拓实,mano,0,0,0,,好评吗
 Dialogue: 0,0:23:59.98,0:24:00.80,界川深幸 & 宫内告典,ksk,0,0,0,,真的？
-Dialogue: 0,0:24:00.80,0:24:03.86,旭那由多 & 小笠原仁,jin,0,0,0,,大家做完那个之后因为觉得太土了在后台一直在笑
+Dialogue: 0,0:24:00.80,0:24:03.86,旭那由多 & 小笠原仁,jin,0,0,0,,大家做完那个之后因为觉得太土了 边笑边往舞台走
 Dialogue: 0,0:24:04.74,0:24:06.58,曙凉 & 秋谷启斗,akki,0,0,0,,大家都大爆笑了呢
 Dialogue: 0,0:24:05.94,0:24:07.18,旭那由多 & 小笠原仁,jin,0,0,0,,大爆笑呢
 Dialogue: 0,0:24:06.58,0:24:08.98,美园礼音 & 真野拓实,mano,0,0,0,,“太没有GYRO感所以笑出来了”这样写着
