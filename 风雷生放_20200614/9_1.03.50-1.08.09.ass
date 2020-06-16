@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: C:/Users/asus/Desktop/NAVI观星站/风神/风雷生放_带评论.mp4
-Video File: C:/Users/asus/Desktop/NAVI观星站/风神/风雷生放_带评论.mp4
+Audio File: 风雷生放_带评论.mp4
+Video File: 风雷生放_带评论.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 45
-Active Line: 46
-Video Position: 119208
+Video Zoom Percent: 0.375000
+Scroll Position: 75
+Active Line: 83
+Video Position: 122539
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 0,1:04:49.14,1:04:56.19,椿大和 & 金子诚,,0,0,0,,再次放送的�
 Dialogue: 0,1:04:56.32,1:04:59.07,椿大和 & 金子诚,,0,0,0,,在Youtube上免费再次放送
 Dialogue: 0,1:04:59.18,1:04:59.92,若草葵 & 酒井广大,,0,0,0,,黄金时间
 Dialogue: 0,1:05:00.36,1:05:03.26,椿大和 & 金子诚,,0,0,0,,没错 出演者是Argonavis GYROAXIA
-Dialogue: 0,1:05:03.26,1:05:08.64,椿大和 & 金子诚,,0,0,0,,以及嘉宾 风神RIZING！的神之岛风太 椿大和 若草葵
+Dialogue: 0,1:05:03.26,1:05:08.64,椿大和 & 金子诚,,0,0,0,,以及嘉宾 风神RIZING！的神之岛风太 椿大和 若草{\fn黑体\fs60}あおい
 Dialogue: 0,1:05:08.76,1:05:10.11,椿大和 & 金子诚,,0,0,0,,敬请期待
 Dialogue: 0,1:05:10.11,1:05:10.96,若草葵 & 酒井广大,,0,0,0,,敬请期待
 Dialogue: 0,1:05:11.20,1:05:13.62,椿大和 & 金子诚,,0,0,0,,然后第三个通知是这个
@@ -113,9 +113,9 @@ Dialogue: 0,1:07:36.72,1:07:39.90,神之岛风太 & 中岛良树,,0,0,0,,「STAR
 Dialogue: 0,1:07:39.90,1:07:42.08,神之岛风太 & 中岛良树,,0,0,0,,好厉害 这个必须得一口气说出来
 Dialogue: 0,1:07:42.63,1:07:47.24,神之岛风太 & 中岛良树,,0,0,0,,详细信息请前往官网和推特确认
 Dialogue: 0,1:07:47.61,1:07:52.38,神之岛风太 & 中岛良树,,0,0,0,,以上就是来自「ARGONAVIS from BanG Dream! 」的通知了
-Dialogue: 0,1:07:54.38,1:08:00.42,神之岛风太 & 中岛良树,,0,0,0,,暴风一般放送地「风神RIZING！{\fn黑体\fs65}元気に{\r}BANZAI！！！」
+Dialogue: 0,1:07:54.38,1:08:00.42,神之岛风太 & 中岛良树,,0,0,0,,暴风一般放送地「风神RIZING！{\fn黑体\fs60}元気に{\r}BANZAI！！！」
 Dialogue: 0,1:08:00.42,1:08:04.61,神之岛风太 & 中岛良树,,0,0,0,,差不多到结束的时间了 大家有好好享受吗
-Dialogue: 0,1:08:04.61,1:08:08.64,神之岛风太 & 中岛良树,,0,0,0,,好好享受了的各位请用tag#{\fn黑体\fs65}フウライ{\r}参上 发表感想！（呟いて不确定怎么翻）xxx
+Dialogue: 0,1:08:04.61,1:08:08.64,神之岛风太 & 中岛良树,,0,0,0,,好好享受了的各位请用tag#{\fn黑体\fs60}フウライ{\r}参上 发表感想！（呟いて不确定在这里怎么翻）xxx
 Dialogue: 0,1:08:08.79,1:08:09.86,神之岛风太 & 中岛良树,,0,0,0,,拜托各位了
 Dialogue: 0,1:08:09.86,1:08:11.27,椿大和 & 金子诚,,0,0,0,,请发表感想xxx
 Dialogue: 0,1:08:11.32,1:08:16.03,神之岛风太 & 中岛良树,,0,0,0,,那么最后请发表一下今天的感想然后道别
