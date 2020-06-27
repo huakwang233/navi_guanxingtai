@@ -22,10 +22,10 @@ Video Position: 110124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,45,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,23,23,23,1
-Style: 注释,方正品尚黑简体,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,20,10,15,1
-Style: 七星莲 & 伊藤昌弘,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00D9BE4D,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: 旭那由多 & 小笠原仁,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00351AB8,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 全体,方正品尚黑简体,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: 注释,方正品尚黑简体,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.2,7,20,10,15,1
+Style: 七星莲 & 伊藤昌弘,方正品尚黑简体,47,&H00FFFFFF,&H000000FF,&H00D9BE4D,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,13,1
+Style: 旭那由多 & 小笠原仁,方正品尚黑简体,47,&H00FFFFFF,&H000000FF,&H00351AB8,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
