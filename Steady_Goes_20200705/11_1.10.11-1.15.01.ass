@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: ../../Steady Goes/Steady Goes！.mp4
-Video File: ../../Steady Goes/Steady Goes！.mp4
+Audio File: ../../Tencent Files/3265244020/FileRecv/Steady Goes！.mp4
+Video File: ../../Tencent Files/3265244020/FileRecv/Steady Goes！.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 3
-Active Line: 7
-Video Position: 119892
+Video Zoom Percent: 0.250000
+Scroll Position: 59
+Active Line: 40
+Video Position: 125723
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 0,1:06:35.59,1:06:40.37,白石万浬 & 桥本祥平,hey,0,0,0,,但是 
 Dialogue: 0,1:06:40.37,1:06:42.07,白石万浬 & 桥本祥平,hey,0,0,0,,会努力地炒热气氛
 Dialogue: 0,1:06:42.07,1:06:45.82,白石万浬 & 桥本祥平,hey,0,0,0,,动画虽然完结了 但是在手游的发布之前
 Dialogue: 0,1:06:45.82,1:06:50.14,白石万浬 & 桥本祥平,hey,0,0,0,,会努力让「ARGONAVIS from BanG Dream!」的内容更加丰富
-Dialogue: 0,1:06:50.14,1:06:55.64,白石万浬 & 桥本祥平,hey,0,0,0,,将下一棒传到手游 今后的应援也拜托了
+Dialogue: 0,1:06:50.14,1:06:55.64,白石万浬 & 桥本祥平,hey,0,0,0,,将下一棒传到手游 今后也请多多支持
 Dialogue: 0,1:06:55.64,1:06:56.68,白石万浬 & 桥本祥平,mae,0,0,0,,非常感谢
 Dialogue: 0,1:06:56.68,1:07:01.93,的场航海 & 前田诚二,mae,0,0,0,,谢谢 接着是森岛桑 拜托了
 Dialogue: 0,1:07:02.22,1:07:05.02,桔梗凛生 & 森岛秀太,mrs,0,0,0,,感谢大家今天观看了直播
@@ -73,7 +73,7 @@ Dialogue: 0,1:08:38.59,1:08:41.55,七星莲 & 伊藤昌弘,masa,0,0,0,,在摄影
 Dialogue: 0,1:08:41.55,1:08:45.58,七星莲 & 伊藤昌弘,masa,0,0,0,,非常高兴 现在非常开心
 Dialogue: 0,1:08:45.58,1:08:49.59,七星莲 & 伊藤昌弘,masa,0,0,0,,这次 那个 新曲什么的也一下子出来了
 Dialogue: 0,1:08:49.59,1:08:50.57,七星莲 & 伊藤昌弘,masa,0,0,0,,「Stand by me!!」
-Dialogue: 0,1:08:50.57,1:08:53.58,七星莲 & 伊藤昌弘,masa,0,0,0,,之后是「{\fn思源笔体\fs85}くちづけ{\r}Diamond」的歌词MV
+Dialogue: 0,1:08:50.57,1:08:53.58,七星莲 & 伊藤昌弘,masa,0,0,0,,之后是「{\fn思源笔体\fs87}くちづけ{\r}Diamond」的歌词MV
 Dialogue: 0,1:08:53.58,1:08:57.84,七星莲 & 伊藤昌弘,masa,0,0,0,,“也要唱这种曲子啊”我觉得今后还会有很多的
 Dialogue: 0,1:08:57.84,1:09:00.35,七星莲 & 伊藤昌弘,masa,0,0,0,,这方面也请期待
 Dialogue: 0,1:09:00.35,1:09:07.92,七星莲 & 伊藤昌弘,masa,0,0,0,,我们在Mix Channel上的无观众直播演唱会
