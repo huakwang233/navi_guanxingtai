@@ -15,10 +15,9 @@ Audio File: ../第四期/../【ギャラリーアーモ特別番組】パズル�
 Video File: ../第四期/../【ギャラリーアーモ特別番組】パズルが完成するまで帰れません!!!.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 143
-Active Line: 146
-Video Position: 243425
+Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 234304
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +30,7 @@ Style: 注释,方正品尚黑简体,50,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,旭那由多 & 小笠原仁 - 右下,jin,0,0,0,,150
-Dialogue: 0,2:10:02.46,2:10:05.52,旭那由多 & 小笠原仁 - 右下,jin,0,0,0,,拼这里的好像……不是这个吧
+Dialogue: 0,2:10:02.46,2:10:05.52,旭那由多 & 小笠原仁 - 右下,jin,0,0,0,,等等 拼这里的好像……不是这个吧
 Dialogue: 0,2:10:05.52,2:10:09.54,旭那由多 & 小笠原仁 - 右下,jin,0,0,0,,找到了！是这个！是这个啊！
 Dialogue: 0,2:10:10.42,2:10:12.86,旭那由多 & 小笠原仁 - 右下,jin,0,0,0,,{\fn思源笔体\fs56.667}へッズンゴオ{\r}x2 原来如此
 Dialogue: 0,2:10:12.86,2:10:15.36,七星莲 & 伊藤昌弘 - 左下,masa,0,0,0,,还有 还有一个
