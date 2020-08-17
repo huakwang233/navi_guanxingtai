@@ -5,16 +5,18 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Video Zoom Percent: 0.500000
-Scroll Position: 180
-Active Line: 185
-Video Position: 16054
+Audio File: ../../../桌游.mp4
+Video File: ../../../桌游.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Video Position: 112
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +30,8 @@ Style: 美园礼音 & 真野拓实,方正品尚黑简体,70,&H00FFFFFF,&H000000F
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:02.88,全体,,0,0,0,,{\a6\fad(0,815)}字幕仅供学习交流，请勿二传二改
+Dialogue: 1,0:00:00.00,0:00:02.88,全体,,0,0,0,,{\a1\fad(0,815)\fs46}片源：MR画框\N翻译：荇子、Serafina、{\fn黑体\fs41}無色団{\r\fs46}子、游{\fn黑体\fs41}亞{\r\fs46}、神乐、五里雾中、彩由、真夏\N时轴：饭团、真夏、默默、{\fn黑体\fs41}旸{\r\fs46}宇、神乐\N翻校：c子、Ayu、RR、MR画框\N修图：饭团\N后期：真夏
 Dialogue: 0,0:00:03.57,0:00:12.09,七星莲 & 伊藤昌弘,masa,0,0,0,,目标是胜利！不抵达桌游终点就回不去——
 Dialogue: 0,0:00:08.06,0:00:12.08,全体,众,0,0,0,,耶xN
 Dialogue: 0,0:00:12.13,0:00:12.97,旭那由多 & 小笠原仁,jin,0,0,0,,好嘞
@@ -196,7 +200,7 @@ Dialogue: 0,0:07:04.21,0:07:08.50,旭那由多 & 小笠原仁,jin,0,0,0,,以及�
 Dialogue: 0,0:07:08.30,0:07:08.77,七星莲 & 伊藤昌弘,masa,0,0,0,,“那个”
 Dialogue: 0,0:07:09.01,0:07:12.13,美园礼音 & 真野拓实,mano,0,0,0,,跟旁边的大图一比就能立刻明白哪里拼错了
 Dialogue: 0,0:07:12.13,0:07:12.53,七星莲 & 伊藤昌弘,masa,0,0,0,,闭嘴
-Dialogue: 0,0:07:14.44,0:07:15.21,美园礼音 & 真野拓实,mano,0,0,0,,有意思
+Dialogue: 0,0:07:14.44,0:07:15.21,旭那由多 & 小笠原仁,jin,0,0,0,,有意思
 Dialogue: 0,0:07:16.62,0:07:19.49,旭那由多 & 小笠原仁,jin,0,0,0,,然后接下来是展示区
 Dialogue: 0,0:07:19.49,0:07:22.16,旭那由多 & 小笠原仁,,0,0,0,,虽然能理解但是打了好多不必要的马赛克啊
 Dialogue: 0,0:07:23.49,0:07:24.53,七星莲 & 伊藤昌弘,masa,0,0,0,,不想让你看
