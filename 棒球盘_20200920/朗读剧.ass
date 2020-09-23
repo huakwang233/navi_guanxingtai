@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: ../../../QQ files/3402649253/FileRecv/朗读剧.mp4
-Video File: ../../../QQ files/3402649253/FileRecv/朗读剧.mp4
+Audio File: ../../棒球盘/朗读剧.mp4
+Video File: ../../棒球盘/朗读剧.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.500000
 Scroll Position: 39
-Active Line: 54
-Video Position: 5408
+Active Line: 49
+Video Position: 4869
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,14 +72,14 @@ Dialogue: 0,0:02:09.38,0:02:12.31,七星莲 & 伊藤昌弘,masa,0,0,0,,想有一
 Dialogue: 0,0:02:13.29,0:02:15.81,旭那由多 & 小笠原仁,jin,0,0,0,,不要说什么“想有一天”这种不着边际的话
 Dialogue: 0,0:02:16.04,0:02:17.08,旭那由多 & 小笠原仁,jin,0,0,0,,就是要来开的
 Dialogue: 0,0:02:17.58,0:02:20.78,七星莲 & 伊藤昌弘,masa,0,0,0,,嗯 那今天就顺便在这里看棒球比赛吧
-Dialogue: 0,0:02:21.07,0:02:22.78,七星莲 & 伊藤昌弘,masa,0,0,0,,还能能看到巨蛋内部
+Dialogue: 0,0:02:21.07,0:02:22.78,七星莲 & 伊藤昌弘,masa,0,0,0,,还能看到巨蛋内部
 Dialogue: 0,0:02:22.78,0:02:27.08,七星莲 & 伊藤昌弘,masa,0,0,0,,我没看过棒球 都是凛生教我规则的
 Dialogue: 0,0:02:27.46,0:02:29.08,旭那由多 & 小笠原仁,jin,0,0,0,,顺便是什么鬼
 Dialogue: 0,0:02:29.08,0:02:34.29,七星莲 & 伊藤昌弘,masa,0,0,0,,而且听说这边的汉堡店特别有名呢 那由多君来一个吗
 Dialogue: 0,0:02:34.29,0:02:35.08,旭那由多 & 小笠原仁,jin,0,0,0,,哈？
 Dialogue: 0,0:02:35.42,0:02:38.77,七星莲 & 伊藤昌弘,masa,0,0,0,,我虽然觉得幸运小丑的汉堡肯定是第一
 Dialogue: 0,0:02:39.30,0:02:41.88,七星莲 & 伊藤昌弘,masa,0,0,0,,但其他的店肯定也有可取之处
-Dialogue: 0,0:02:42.29,0:02:45.08,七星莲 & 伊藤昌弘,masa,0,0,0,,没吃就说不喜欢可就浪费了 万浬是这么说的
+Dialogue: 0,0:02:42.29,0:02:45.08,七星莲 & 伊藤昌弘,masa,0,0,0,,没吃就说不喜欢可就浪费了 万{\fn黑体\fs40}浬{\r}是这么说的
 Dialogue: 0,0:02:45.44,0:02:48.27,旭那由多 & 小笠原仁,jin,0,0,0,,..................（叹气）
 Dialogue: 0,0:02:48.74,0:02:51.08,桔梗凛生 & 森岛秀太,morishi,0,0,0,,看起来旭也打算去了嘛
 Dialogue: 0,0:02:51.33,0:02:55.34,界川深幸 & 宫内告典,ksk,0,0,0,,好像是哦 啊 真是帮大忙了
