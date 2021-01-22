@@ -5,28 +5,28 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: PC.601
-PlayResX: 720
-PlayResY: 1280
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Audio File: 主线2-2.mp4
-Video File: 主线2-2.mp4
+Audio File: ../../../主线/主线2-2.mp4
+Video File: ../../../主线/主线2-2.mp4
 Video AR Mode: 4
-Video AR Value: 0.562500
-Video Zoom Percent: 0.250000
-Scroll Position: 59
-Active Line: 65
-Video Position: 17107
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Video Position: 230
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,7,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.750511,0.750511,2,4,4,441,1
-Style: 游戏剧情文本,方正准圆简体,26,&H00FFFFFF,&H000000FF,&H00323436,&H00000000,0,0,0,0,100,100,0,0,1,0.938143,0.750511,2,4,4,450,1
+Style: Default,Arial,2,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.187628,0.187628,2,3,3,110,1
+Style: 游戏剧情文本,方正准圆简体,47,&H00FFFFFF,&H000000FF,&H00323436,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,1.33333,2,7,7,23,1
+Style: 游戏剧情文本 - 注释,方正准圆简体,33,&H00FFFFFF,&H000000FF,&H00323436,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,1.33333,7,7,7,7,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.17,游戏剧情文本 - 注释,,0,0,0,,{\a5\fad(0,500)}源：荇子\N翻译：社\N轴：真夏\N校对：Ayu、MR画框
 Dialogue: 0,0:00:00.39,0:00:02.14,游戏剧情文本,,0,0,0,,后台
 Dialogue: 0,0:00:03.05,0:00:05.58,游戏剧情文本,,0,0,0,,嗯 真不错啊 那群孩子！
 Dialogue: 0,0:00:05.58,0:00:08.99,游戏剧情文本,,0,0,0,,是叫风神RIZING！对吗？灯？
@@ -93,5 +93,4 @@ Dialogue: 0,0:04:38.72,0:04:42.12,游戏剧情文本,,0,0,0,,不 我会来看的
 Dialogue: 0,0:04:42.12,0:04:45.55,游戏剧情文本,,0,0,0,,就决定工作和乐队活动两头兼顾了！
 Dialogue: 0,0:04:46.52,0:04:50.64,游戏剧情文本,,0,0,0,,我要在这次的FES中胜出 来证明这一点！
 Dialogue: 0,0:04:52.51,0:04:56.95,游戏剧情文本,,0,0,0,,嗯嗯 很棒的决心 加油啊 灯
-Dialogue: 0,0:04:57.62,0:05:01.02,游戏剧情文本,,0,0,0,,对不起 那么……我先走了！
-Dialogue: 0,0:05:01.02,0:05:03.52,游戏剧情文本,,0,0,0,,
+Dialogue: 0,0:04:57.62,0:05:01.70,游戏剧情文本,,0,0,0,,对不起 那么……我先走了！
