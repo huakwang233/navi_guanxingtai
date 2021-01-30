@@ -32,7 +32,7 @@ Style: 游戏剧情文本,方正准圆简体,47,&H00FFFFFF,&H000000FF,&H00323436
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,第二话 住在一起这件事
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,第二话 住在一起这件事
 Dialogue: 0,0:00:07.06,0:00:08.54,游戏剧情文本,,0,0,0,,合租公寓-Argonavis-
 Dialogue: 0,0:00:09.57,0:00:14.47,游戏剧情文本,,0,0,0,,照这样下去 有些担心我们的共同生活的前景了
 Dialogue: 0,0:00:16.20,0:00:20.07,游戏剧情文本,,0,0,0,,共同生活......是啊......
