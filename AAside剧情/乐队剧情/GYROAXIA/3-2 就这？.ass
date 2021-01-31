@@ -5,16 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1488
 PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Standard
-Video Zoom Percent: 0.500000
-Scroll Position: 33
-Active Line: 55
-Video Position: 6724
+Audio File: 拽3-2.mp4
+Video File: 拽3-2.mp4
+Video AR Mode: 4
+Video AR Value: 2.066667
+Video Zoom Percent: 0.750000
+Scroll Position: 48
+Active Line: 24
+Video Position: 6714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,6 +27,8 @@ Style: 游戏剧情文本,方正准圆简体,47,&H00FFFFFF,&H000000FF,&H00323436
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.67,游戏剧情文本,,0,0,0,,医院
+Dialogue: 0,0:00:01.87,0:00:03.22,游戏剧情文本,,0,0,0,,（开门声）
 Dialogue: 0,0:00:04.55,0:00:07.82,游戏剧情文本,,0,0,0,,身体怎么样 睡过了么？
 Dialogue: 0,0:00:08.71,0:00:10.13,游戏剧情文本,,0,0,0,,......你们来干什么？
 Dialogue: 0,0:00:12.09,0:00:15.77,游戏剧情文本,,0,0,0,,这种就是叫做探病 对吧？
@@ -38,14 +44,14 @@ Dialogue: 0,0:00:46.42,0:00:49.55,游戏剧情文本,,0,0,0,,另外 别忘了喂
 Dialogue: 0,0:00:51.54,0:00:52.56,游戏剧情文本,,0,0,0,,......知道了
 Dialogue: 0,0:00:54.54,0:00:58.19,游戏剧情文本,,0,0,0,,唔 贤贤也没别的要说？
 Dialogue: 0,0:00:59.01,0:01:00.58,游戏剧情文本,,0,0,0,,......有什么不对劲吗？
-Dialogue: 0,0:01:02.62,0:01:06.78,游戏剧情文本,,0,0,0,,嗯 感觉......不太好
+Dialogue: 0,0:01:01.40,0:01:06.78,游戏剧情文本,,0,0,0,,嗯 感觉......不太好
 Dialogue: 0,0:01:07.57,0:01:11.60,游戏剧情文本,,0,0,0,,并不是......幸福的感觉
 Dialogue: 0,0:01:16.71,0:01:18.25,游戏剧情文本,,0,0,0,,车站前
 Dialogue: 0,0:01:19.54,0:01:21.75,游戏剧情文本,,0,0,0,,我说 贤贤......
 Dialogue: 0,0:01:23.25,0:01:26.08,游戏剧情文本,,0,0,0,,礼音退出了真的好吗？
 Dialogue: 0,0:01:26.92,0:01:29.01,游戏剧情文本,,0,0,0,,......我并不觉得是好事
-Dialogue: 0,0:01:29.42,0:01:32.87,游戏剧情文本,,0,0,0,,礼音这个级别的吉他手 除他以外也没有其他人了
-Dialogue: 0,0:01:33.72,0:01:38.67,游戏剧情文本,,0,0,0,,但是 既然他本人说了没法进行下去 那我也没办法
+Dialogue: 0,0:01:29.42,0:01:32.87,游戏剧情文本,,0,0,0,,礼音这个级别的吉他手 可不是随便能找到的
+Dialogue: 0,0:01:33.72,0:01:38.67,游戏剧情文本,,0,0,0,,但是 既然他本人说干不下去了 那我也没办法
 Dialogue: 0,0:01:39.50,0:01:45.09,游戏剧情文本,,0,0,0,,唔~礼音真的是这么想的吗？
 Dialogue: 0,0:01:45.94,0:01:49.71,游戏剧情文本,,0,0,0,,......就算是在气头上说出来的话
 Dialogue: 0,0:01:49.71,0:01:52.25,游戏剧情文本,,0,0,0,,我想也是有一部分发自内心的
