@@ -15,8 +15,7 @@ Audio File: ep 2-3.mp4
 Video File: ep 2-3.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 45
-Active Line: 10
+Active Line: 2
 Video Position: 1442
 
 [V4+ Styles]
@@ -27,7 +26,7 @@ Style: 游戏剧情文本,方正准圆简体,70,&H00FFFFFF,&H000000FF,&H00323436
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.15,0:00:01.68,游戏剧情文本,,0,0,0,,车站前
 Dialogue: 0,0:00:02.98,0:00:05.11,游戏剧情文本,,0,0,0,,诶！只唱一首就结束吗？
-Dialogue: 0,0:00:05.11,0:00:09.91,游戏剧情文本,,0,0,0,,对不起啦！我们准备的歌不多！
+Dialogue: 0,0:00:05.11,0:00:09.91,游戏剧情文本,,0,0,0,,对不起啦！我们自己的歌不多！
 Dialogue: 0,0:00:10.63,0:00:12.65,游戏剧情文本,,0,0,0,,啊 对了！
 Dialogue: 0,0:00:12.65,0:00:16.79,游戏剧情文本,,0,0,0,,我们这次要在东京开一场大型演唱会 不过是以乐队的形式
 Dialogue: 0,0:00:16.79,0:00:18.88,游戏剧情文本,,0,0,0,,欢迎来捧场！
